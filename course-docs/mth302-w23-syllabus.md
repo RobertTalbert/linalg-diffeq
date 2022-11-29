@@ -2,16 +2,25 @@
 
 (insert graphic here)
 
-> No, his mind is not for rent
-> To any god or government
-> Always hopeful, yet discontent
-> He knows changes aren't permanent
-> But change is. 
-> -- Rush, "Tom Sawyer" 
+> All models are wrong, but some are useful. 
+> 
 
 ## About MTH 302 and this syllabus
 
----
+**Welcome to MTH 302!** I'm Dr. Robert Talbert, the professor of this course. I'm grateful you're here, and I think you're going to love what you learn this semester. 
+
+MTH 302 about **modeling and understanding systems undergoing change.** A car driving down a bumpy road is such a system, as it its shock absorbers encounter and smooth out the bumps. So is an ecosystem where one species preys upon another and the populations change dynamically. So is an electric circuit with a resistor and power supply; or two guitar strings vibrating next to each other at different frequencies; and many other systems we encounter every day. 
+
+In MTH 302 we model and understand these systems using two fundamental tools: 
+
+- **Linear algebra**, the study of systems of linear equations and their solutions; and 
+- **Differential equations**, which studies equations that connect the current state of a quantity to its rates of change. 
+
+Both tool sets are foundational in their own right; but as we will see, they can also mutually support each other in interesting and useful ways. 
+
+**This syllabus contains all the information you need to navigate the course.** The main document will be kept continuously up to date at this link. When you see blue- or purple-underlined text in the syllabus or any other document, it's a clickable link. For example, [click here for a cat video](https://www.youtube.com/watch?v=aFuUidBR1aQ). A PDF version of the syllabus will also be available on Blackboard in the *Syllabus and Calendar* area, but it will not be updated unless there is a major change. 
+
+**This document is meant to be read once, then searched as needed.** If you need to find something, the easiest way is to pull up the document, hit `Control-F` and then do a search for the text you're looking for. 
 
 ## Course information 
 
