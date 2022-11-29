@@ -46,7 +46,21 @@ We'll get fluent with all of these tools during the first week of class using so
 
 ## How to succeed in MTH 302 
 
----
+**My top prority as a professor at GVSU is your success**. In MTH 302, you can expect:
+
+- A learning environment that challenges you, but also where support is readily available and freely given. This class is *a safe space to make mistakes*. 
+- Work that is meaningful and not "busy work", and grading practices that prioritize growth and improvement. 
+- Transparency and openness in how the course is run, including clear instructions on what you need to do and when. 
+- Openness to your ideas about the course, with regular solicitations for feedback that are taken seriously through a continuous improvement process. 
+- Above all, **respect** -- for you as a learner, as an adult, and as a human. 
+
+On your end, your success in the course depends on three things: 
+
+1. **Active engagement during class time**. All the available research on learning says that the best way to learn is to be an active participant in the process. Students who approach the class with a passive mindset typically struggle, and often fail. Those who approach it with an active mindset, on the other hand, often surprise themselves with how much and how well they learn. Make it a priority not to just attend and take notes, but *get involved*. 
+2. **Asking questions**. The material in MTH 302 can be challenging, and it is 100% certain you will be lost, confused, and/or stuck at times. **This is not a defect -- it means you're doing the course right.** When it happens, don't wait for things to make sense on their own: *Ask questions* of me and your classmates and take action to make sense of the material. 
+3. **Good management of time, tasks, and information.** Understanding the material won't help you if you procrastinate, skip reading announcements, or don't use a calendar. All course information will be clearly laid out for you, but it's up to you to import that information into your own lives and act on it. 
+
+If you can commit to these three things, then I have every expectation that you'll succeed in the course, no matter what your math background or perceived math skill is. 
 
 ## How MTH 302 is structured 
 
