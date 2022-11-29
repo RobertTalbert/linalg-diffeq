@@ -24,7 +24,25 @@ Both tool sets are foundational in their own right; but as we will see, they can
 
 ## Course information 
 
----
+- **Class meetings:** Section 03 meets TR 2:00-3:50 in EC 421. Section 04 meets TR 4:00-5:50 in EC 710. 
+- **Instructor:** Robert Talbert, Ph.D., Professor of Mathematics. 
+- **Office location:** MAK C-2-513, but I will be using **INSERT PERCHING OFFICE HERE**. 
+- **Drop-in hours:** 3:00-5:00pm in Mackinac Hall C-2-513. Online visits are available by appointment at https://calendly.com/robert-talbert/online-drop-in-meeting.  
+- **Appointments outside drop-in hours:** Available on a limited basis. Go to https://calendly.com/robert-talbert, choose a meeting type, then choose an open 20-minute time slot. 
+- **Contacting the prof:** Email (talbertr@gvsu.edu) is preferred. Be sure to read my availability/response policy.  **INSERT LINK**
+- **Course calendar:** The official course calendar is in Appendix B and on Blackboard. *In case of a date conflict on assignments or course documents, the Class Calendar is assumed to be correct.* 
+- **Definition of "week":** In our course, a "week" is defined to begin at 12:01am ET on *Monday* and end at 11:59pm ET the following *Sunday*. 
+- **Blackboard and announcements:** Our Blackboard page is at https://lms.gvsu.edu. Announcements will be posted on Sundays, with occasional mid-week announcements. *Be sure to check announcements, email, and the calendar at least once daily.*
+- **Textbook:** *Differential Equations with Linear Algebra* by Boelkins, Goldberg, and Potter. It is freely available online through the GVSU Library; [click here to access](https://ebookcentral-proquest-com.ezproxy.gvsu.edu/lib/GVSU/detail.action?docID=472100). **I recommend you download individual PDFs of the chapters so you can use them offline.** We will be working through most of Chapters 1--5. 
+
+**Course tools:** We will use computer tools extensively in the course. In addition to Blackboard, these include: 
+
+- **Perusall** (http://perusall.com): An online tool for collaborative reading and viewing. 
+- **Python**: A widely-used and easy to learn programming environment. We will not be doing much actual programming in the course, but instead using two packages for doing math: **SymPy** (a package for doing symbolic math) and **NumPy** (for numerical analysis). 
+- **Jupyter notebooks** via **Google Colab** (http://colab.research.google.com): Jupyter is an open-source graphical notebook interface for working with Python. Colab is a Google product for working with Jupyter notebooks, that lives in the cloud and can be connected to your GVSU Google Drive. 
+- **Miro**: An online whiteboard tool for presentations and collaborative work. We'll use it in class from time to time. 
+
+We'll get fluent with all of these tools during the first week of class using some custom tutorial videos I have made. 
 
 ## How to succeed in MTH 302 
 
