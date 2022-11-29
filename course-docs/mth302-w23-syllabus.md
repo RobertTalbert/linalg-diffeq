@@ -22,6 +22,8 @@ Both tool sets are foundational in their own right; but as we will see, they can
 
 **This document is meant to be read once, then searched as needed.** If you need to find something, the easiest way is to pull up the document, hit `Control-F` and then do a search for the text you're looking for. 
 
+All course materials for MTH 302 are available on GitHub at https://github.com/RobertTalbert/linalg-diffeq. 
+
 ## Course information 
 
 - **Class meetings:** Section 03 meets TR 2:00-3:50 in EC 421. Section 04 meets TR 4:00-5:50 in EC 710. 
@@ -40,7 +42,7 @@ Both tool sets are foundational in their own right; but as we will see, they can
 - **Perusall** (http://perusall.com): An online tool for collaborative reading and viewing. 
 - **Python**: A widely-used and easy to learn programming environment. We will not be doing much actual programming in the course, but instead using two packages for doing math: **SymPy** (a package for doing symbolic math) and **NumPy** (for numerical analysis). 
 - **Jupyter notebooks** via **Google Colab** (http://colab.research.google.com): Jupyter is an open-source graphical notebook interface for working with Python. Colab is a Google product for working with Jupyter notebooks, that lives in the cloud and can be connected to your GVSU Google Drive. 
-- **Miro**: An online whiteboard tool for presentations and collaborative work. We'll use it in class from time to time. 
+- **Miro** (http://miro.com): An online whiteboard tool for presentations and collaborative work. We'll use it in class from time to time. 
 
 We'll get fluent with all of these tools during the first week of class using some custom tutorial videos I have made. 
 
