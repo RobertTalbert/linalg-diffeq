@@ -66,21 +66,103 @@ If you can commit to these three things, then I have every expectation that you'
 
 ## How MTH 302 is structured 
 
-### What you'll be learning 
+### Course level learning objectives and catalog description
+
+**Official catalog description:** Matrix algebra and determinants. Introduction to the theory of differential equations. Methods of solution (including Laplace transform techniques) of linear equations, as well as some special types of nonlinear equations. Applications in physical, biological, and social sciences. Offered fall and winter semesters. *Prerequisite*: MTH 203. *Credits*: 4. 
+
+After successful completion of the course, you will be able to…
+
+1. Explain the geometric and physical significance of the concepts of linear algebra.
+2. Apply linear algebra and differential equations to mathematical modeling.
+3. Apply computational and analytical techniques to formulate, solve, and interpret
+mathematical models.
+1. Apply quantitative methods to ordinary differential equations.
+2. Use computer algebra systems such as Maple®, Matlab®, and/or Mathematica®.
+3. Explain how concepts in linear algebra and differential equations can be generalized to
+different contexts.
+7. Use modern computer tools (Python, specifically the SymPy and NumPy packages) to analyze and solve problems involving linear algebra and differential equations. 
 
 ### How MTH 302 is set up 
 
+The course content is split up into four distinct modules: 
+
+- **Linear algebra:** Systems of linear equations; row reduction and solving systems; linear combinations and span; linear independence; matrices and matrix algebra; inverses and determinants of matrices; eigenvalues and eigenvectors of matrices. 
+- **Differental equations:** Basic terminology and concepts; slope fields; linear first-order DEs; nonlinear first-order DEs; Euler's method. 
+- **Systems of differential equations:** Solving systems of DEs using eigenvalues; homogeneous first-order systems; systems with linearly independent eigenvectors; systems without linearly independent eigenvectors; nonhomogeneous systems. 
+- **Further explorations:** Higher-order DEs and their connection to systems; Laplace transform methods. 
+
+There are many sub-topics that you'll be learning and practicing throughout the course. However, there are twelve **Foundational Skills** that are essential for all students to master. These are listed in Appendix A, Foundational Skills. 
+
 ### The flow of a typical week 
+
+While we meet only on Tuesdays and Thursdays, you're expected to work actively on the course throughout the week. Each class meeting has activities for you to do *before*, *during* and *after* the class. Specific kinds of assignments are given **in bold face** and are explained fully in the next section. 
+
+- *Before each class:* You'll be asked to complete a **Class Prep** assignment where you'll do a combination of reading, video viewing, and other activities then answering basic questions about it. This way, you'll come to class ready to work, and we can keep lecturing in class to a minimum.
+- *During class:* Class meetings will be focused on *answering questions* and *doing active work*. Much of this work will be turned in later. We'll also sometimes use class meetings for assessment.  
+- *In between classes:* You'll be working on the Class Prep for the next class meeting; completing **Practice Sets** on WeBWorK, a platform for doing online exercises; writing up the work you do in groups during class time to turn in as **Application and Analysis** assignments; and completing **Miniprojects**. You can also use this time to come to drop-in hours or ask questions via email. 
+
+Due dates on these assignments happen on a consistent schedule: 
+
+- Practice Sets are always due at 11:59pm ET on Sundays. 
+- Class Preps are always due at 11:59pm ET on Mondays and Wednesdays (the night before the class meeting).
+- Application/Analysis sets are always due at 11:59pm ET on Wednesdays. 
+
+Visually, a typical week in MTH 302 looks like this: 
+
+![Weekly workflow in MTH 302](weekly-workflow.png)
+
+Due dates on Miniprojects vary; see below for details. 
 
 ---
 
-## Assessments and grades
+## Assignments and grades
 
 ### Overall approach to grades in MTH 302
 
+The way grades work in MTH 302 is different from what you might have experienced. In MTH 302: 
+
+- **Almost none of your assignments have point values**. The ones that do have point values, are given either 0 or 1 points only. Therefore there is **no partial credit and no averaging**. 
+- Instead, assignments have **specifications** which are descriptions of what constitutes "acceptable" work. These are given in detail in the document *Standards for Student Work* which you can find on Blackboard in the *Syllabus and Calendar* area. When you submit an assignment, I will read it carefully and compare it with the standards, and simply determine whether it meets the specifications or not. 
+- After I evaluate your work, in most cases you will receive **detailed feedback** that will tell you whether your work meets the standards, and if not, the feedback will tell you what was missing and how you might go about fixing it. 
+- Then, on almost every piece of work, you will have the chance to **retry** the assignment, get more feedback, and repeat this **feedback loop** until the work meets our specifications. 
+- Your course grade is not based on point totals or averages (because most items don't have point values). Instead, the course grade is based on **how many important learning tasks you've accomplished** by the end of the semester, using a simple table that's given below. 
+
+This process, using specifications and feedback loops rather than points and averages, is actually how evaluation of work happens in most situations outside of college. In your future jobs, for example, you'll be reviewed regularly by your manager; it's not a "one and done" situation where you get a point score and then the process is over. Instead, in a real job, you get feedback and coaching on how to improve, and then you act on the feedback and show the boss that you have improved. 
+
+Therefore grades in MTH 302 are based not on your ability to do good work at a single point in time, but rather on your ability to **eventually learn the material** by acting on feedback from previous attempts. 
+
+I've been using this grading method since 2017, originally in MTH 325 and now in all my classes. We do things this way because **learning takes time**, and I believe grading your work based on a single point of data such as a quiz or test and then averaging all of those data is not only inaccurate, but statistically invalid and even unethical. Feedback loops are how all human learning takes place. So this seems like the best way to do grading. 
+
+Those are the main concepts; the details are in the rest of the syllabus. Most students need a week or two to adapt to this system, but then everything is fine. I encourage you to ask questions at any time so I can help you. 
+
+
 ### How you will be assessed 
 
+There are five major kinds of assignments in MTH 302: 
+
+- **Practice Sets:** These are weekly practice exercises over the basic computations we learn. These are completed using WeBWorK, a platform for online homework. Typically 5-7 problems per week are assigned and are graded 1 point if the answer is correct and 0 points otherwise. 
+- **Class Prep:** These will give you the basic knowledge of terms, ideas, and basic concepts that will allow us to jump right into applications when we get to class. They involve reading portions of your textbook (and occasionally watching video), engaging in asking questions about what you read, and answering some simple questions about the content. 
+- **Application and Analysis:** In class, we will work in groups on higher-level tasks involving application and analysis of the basics. You'll be responsible for individually completing this work that you start in groups during class, and turning it in to be checked for basic overall correctness. 
+- **Skill Quizzes:** Each Thursday, we'll take time in class for a timed quiz over a subset of the twelve Foundational Skills found in Appendix A. Each skill will appear on *three consecutive quizzes* so you'll have three attempts at each. 
+- **Miniprojects:** These are longer-form problems that involve deeper applications of the concepts from class, on applications in a variety of domains and in problems whose solutions require computer tools and good technical writing. 
+
+Each of these assignments is graded as follows: 
+
+| Assignment | Basis for grading | What's recorded on Blackboard | 
+| :---------: |  :---------: |  :---------: | 
+| Practice Sets | Correctness | Nothing; scores are kept on WeBWorK | 
+| Class Prep | Completeness and effort only | *Complete* or *Incomplete* (will appear as a green check or red x) | 
+| Application/Analysis | Completeness and overall correctness | *Success*, *Retry*, or *Incomplete* | 
+| Skill Quizzes | Overall correctness | *Success* or *Retry* | 
+| Miniprojects |  Completeness, overall correctness, writing, and presentation | *Success*, *Retry*, or *Incomplete* | 
+
+The document *Standards for Student Work* gives a complete description of the specific criteria used for grading these assignments.  
+
+Additionally, we will have a brief but comprehensive **final exam**, graded using points (out of 100) whose schedule is on the course calendar. 
+
 ## Course grades 
+
+
 
 ## Revisions and reattempts 
 
@@ -110,7 +192,22 @@ Now, I teach computer scientists and engineers how to think like mathematicians,
 
 I live in Allendale with my wife, two teenage kids (there's another kid who lives in Greenville), and three cats. I'm a long-time bass guitar player and a lover of the outdoors. I aspire to spend more time in a kayak or on a bike than in front of a computer. You can read more about what I'm thinking and doing at my website, [rtalbert.org](https://rtalbert.org), or at my "other blog" [Grading for Growth](https://gradingforgrowth.com) about alternative grading practices which I co-author with my GVSU colleague Prof. David Clark. I'm also on Twitter at [@RobertTalbert](http://twitter.com/RobertTalbert) and on [LinkedIn](https://www.linkedin.com/in/roberttalbert/). I will accept any connection request on LinkedIn from a student! 
 
-## Appendix A: Basic Skills 
+## Appendix A: Foundational Skills 
+
+The following twelve skills are considered essential skills for competency in the course. Your course grade is partially determined by how many of these you can demonstrate mastery. The ones labelled "LA" are related to linear algebra; the ones labelled "DE" are related to differential equations. 
+
+- LA.1: I can solve a system of linear equations by converting it into an augmented matrix and putting into reduced row echelon form. 
+- LA.2: I can determine if a vector is in the span of a collection of other vectors. 
+- LA.3: I can determine if a collection of vectors is linearly independent. 
+- LA.4: I can add, subtract, and multiply matrices. 
+- LA.5: I can determine if a matrix is invertible, using information about the matrix. 
+- LA.6: I can find the eigenvalues and eigenvectors of a $2 \times 2$ and $3 \times 3$ matrix. 
+- DE.1: I can solve a linear, homogeneous first-order differential equation using integration. 
+- DE.2: I can solve a separable first-order differential equation using integration. 
+- DE.3: I can generate a numerical solution to a first-order differential equation using Euler's method. 
+- DE.4: I can solve a linear system of two differential equations. 
+- DE.5: I can solve a linear, homogeneous second-order differential equation. 
+- DE.6: I can compute basic Laplace transforms.  
 
 ## Appendix B: Course Calendar 
 
