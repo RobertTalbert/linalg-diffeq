@@ -203,17 +203,118 @@ To encourage your participation in a feedback loop with your work, **you can rev
 
 ## Academic integrity and honesty 
 
+**This course is subject to [GVSU course policies](http://www.gvsu.edu/coursepolicies/) and the [GVSU student code](https://www.gvsu.edu/cms4/asset/7B58A5E7-F4C2-114C-CCDA36F96BD2AF73/the_statement_final_fa2020(2).pdf). This document establishes guidelines and expands and clarifies these policies with respect to all work done in MTH 302 this semester.** 
+
+The student code defines **academic misconduct** as *any action or behavior that misrepresents one’s contributions to or the results of any scholarly product submitted for credit, evaluation, or dissemination*. This includes cheating, collusion, dual submission, falsification, and plagiarism as well as any behavior that enables or helps others do these things.
+
+Academic misconduct is a serious matter and carries significant consequences, up to and including failure of the course and possible suspension from the university. In all cases, the guidelines established in the GVSU catalog and GVSU student code will be followed. I reserve the right to discuss the nature and origins of any assignment with any student before assessing it.
+
+Different assignments in MTH 302 have different levels of acceptable collaboration. These are detailed below. **It's your job to read these carefully, know what is acceptable and what is not acceptable on each kind of assignment, and stay within bounds.** 
+
+- On *Class Prep*, you are **allowed and encouraged to collaborate with others** as long as your  responses reflect your own understanding and are not merely copied from another. Remember, these are only graded on completeness and effort, and mistakes are not penalized. 
+- On *Practice Sets* and *Miniprojects*, you are **allowed to engage in general discussions of strategy only, but no collaboration on the details of a problem are allowed.** Practice Set problems use randomized elements to ensure that no two students receive the exact same problem. 
+- On *Application/Analysis* sets, you **will work in groups during class time to start** on these sets but **they must be finished individually with no collaboration beyond what took place in class**. For example if you need to talk with one of your group members to clarify something they said during class, that is OK; but it is not OK to question that person further about work that didn't take place during class. 
+- On *Skill Quizzes*, these are done in class and **no collaboration is allowed at all**. 
+
+There are two important exceptions to these rules: 
+
+- *Technical* details about an assignment --- for example how to format an equation in Markdown, or getting general help on using Jupyter notebooks --- is fine to discuss in whatever level of detail you want with anyone else. 
+- **You can ask me (Talbert) any question you want, about anything, at any time.** Getting help from the professor is not academically dishonest! In case I cannot answer a question because it would reveal spoilers for the solution, I'll tell you so. 
+
+PLEASE NOTE: **There's no need to be academically dishonest in MTH 302, because you can revise and resubmit.** Rather than cheat, *do your best, ask questions, and use the revision process* so that you really grow and learn in the course. 
+
+## Getting help 
+
+As mentioned, you will almost certainly find yourself lost, stuck, or confused on *something* in this course, possibly quite often. This is not a defect in your character or intelligence; it's a sign you are being challenged, and you can turn that challenge into real growth by **seeking out help as soon as you need it**. 
+
+Make every effort to get yourself unstuck and resolve your questions on your own first. But then: 
+
+* **Attend drop-in hours and ask questions there.** You can use the in-person drop-in hours, the online ones, or both. No appointment needed. 
+* [Schedule an appointment through Calendly](https://calendly.com/robert-talbert/) if drop-in hours don't work for you. 
+* **Work with a classmate** as long as you're staying within bounds on academic honesty above. In particular, working in groups on Class Prep is a very good idea and will help keep you from getting stuck at the beginning of a new concept. 
+
 ## Course Policies 
 
 ### Attendance, absence, and participation
 
+- **Attendance** is expected at all class meetings and is required for working on Application/Analysis sets and Skill Quizzes. While attendance is not directly part of your grade, it will be recorded at each class meeting, so that I can reach out to students who are absent often. 
+- **Remote attendance** (via live-streaming or recorded class meetings) is generally not offered in MTH 302. If you are in a situation where you believe you need a remote attendance option, please let me know as soon as possible; but please note I may not be able to accommodate you immediately. 
+- **Absences** from class do not require permission from me or prior notification, although a heads-up is helpful. However: 
+    - If you are absent, you will not have the benefit of working with your group on Application/Analysis; you will be expected to complete the set on your own. 
+    - If you are absent from a Skill Quiz, no makeups are available. Each Foundational Skill appears on three separate quizzes, so if you miss one, you'll be expected to make an attempt on the next quiz.
+
+Exceptions to these rules are always up for discussion. If you believe you need special accommodation, please contact me as soon as possible to discuss it. 
+
+
 ### Deadlines and late work 
+
+Assignments in MTH 302 follow a consistent schedule of deadlines: 
+
+- Practice Sets are always due Sundays at 11:59pm ET. 
+- Class Preps for a given class meeting are always due at 11:59pm ET the night before that meeting.
+- Application/Analysis sets are always due Wednesdays at 11:59pm ET (on Blackboard). 
+- Skill Quizzes are done in class on Thursdays, and are due at the end of the class. 
+
+All deadlines are listed on the course calendar as well. 
+
+Each miniproject comes with an **initial deadline**. Your **first attempt** on a miniproject must be submitted by that deadline, and no first attempts on a miniproject are accepted after that initial deadline. However, once your first attempt is submitted, there is **no deadline** for turning in revisions (if revisions are needed); you can continue to work with a miniproject at your own pace once the initial draft is turned in. However, **a single deadline of 11:59pm ET on Sunday, April 16** is in place for all work on Miniprojects. 
+
+Revisions of Application/Analysis sets will also have deadlines, which will be announced in class. Revisions will typically be due one week after the original set is graded. 
+
+### Deadline extensions
+
+If you are working on a Practice Set, Application/Analysis set, or Miniproject, and need a little additional time to complete your work, you can extend the deadline by filling out the **Due Date Change Request Form** found in the Blackboard sidebar. You do not need approval; this form is simply informing me of when you plan on turning in the work. Please note, you may not get timely feedback on your work if you change the due date. If you ask for repeated extensions, I will likely reach out to see if we can find ways to help you keep up better. 
+
+The reason we have such a liberal policy on deadlines is that this is how it works in the real world. In the real world, due dates and deadlines exist, but studies have shown that most of these are flexible, assigned mainly as a "commitment device" to help you stay motivated to complete the task. But, if you need more time to get the job done well, you email whoever set the deadline and ask if you can have some more time. Studies have shown[^1] that deadline extensions, when requested in moderation and when truly needed, can lead to better evaluation (and better work).
+
+[^1]: "Go Ahead and Ask for More Time on that Deadline", https://hbr.org/2021/12/go-ahead-and-ask-for-more-time-on-that-deadline
+
+However, please note, there are some limitations on deadline extensions: 
+
+- Deadline extensions are expected to be reasonable, for example a few hours or a single day. If you ask for a significantly long extension, I will likely overrule it and give you a shorter extension instead, which you'll be expected to follow. 
+- Deadlines may not be extended twice on the same assignment. 
+- Extending the deadline on a Practice Set (on WeBWorK) requires at least 24 hours notice so I can set you up on WeBWorK with a custom deadline. 
+- Class Prep deadlines may not be extended. 
+- Skill Quizzes must be completed in class, so their deadlines may not be extended. 
+- The final deadline for Miniprojects (11:59pm ET April 16) may not be extended. 
 
 ### Technology skills and support 
 
+You should be proficient in the basic technology skills listed at [this GVSU policy page](https://www.gvsu.edu/online/technology-requirements-for-onlinehybrid-courses-8.htm). This list is specifically for online and hybrid courses, but the skill set applies to our class as well. If you need help at any time with those skills, please ask me or a classmate. 
+
+**I (Talbert) am not able to provide tech support** since I lack the skill and permissions to fix all possible problems. 
+
+**Tech support:** Technology issues will happen with almost 100% certainty, usually at the worst possible moment. **When this happens, do NOT contact me first!** Instead, contact the appropriate person or office listed below: 
+
+:::success
+* For help with **Blackboard:** Email the Blackboard Help Desk at bbadmin@gvsu.edu or call (616)331-8526. For hours of operation and more information see http://www.gvsu.edu/elearn/help. 
+* For help with **the GVSU network, email, or printing**: Email the GVSU IT Help Desk at helpdesk@gvsu.edu; or call (616)331-2101 or toll free (855)435-7488. For hours of operation and more information see https://www.gvsu.edu/it. 
+* For help with **your computer:** Try the GVSU IT Help Desk (above) or contact your device's manufacturer or a computer store. 
+* For help with **Perusall:** Contact **Perusall Help** at https://support.perusall.com. 
+* For help with **any other technology:** Ask a question of a classmate (or me), seek out the help documentation in the tool you are using, or do a targeted Google search. 
+:::
+
+**If technology issues prevent submitting work:** If you have contacted an appropriate source of help and an issue still persists that prevents you from turning in work in the usual way (for example on Blackboard), **you are expected to take alternative measures to get your work turned in on time.** For example, if Blackboard is offline and a deadline is near, send an email with an attachment. Then, submit the work using the normal means later. 
+
 ### Instructor availability and message responses
 
+**You can ask a question about anything at any time.** You have both the right and the responsibility to ask questions about anything in the course you don't fully understand, whether math or some aspect of the syllabus or anything else. You can use email (talbert@gvsu.edu), drop-in hours, or grab me after class. Email is the best venue; to get help on a WeBWorK question, use the "Email the instructor" link found in the problem. 
+
+However, please note that I do not always respond immediately to messages. In particular **I do not check email between 6:00pm and 6:00am on weeknights**, and **I do not check email at all on weekends**. That said, 
+
+- Messages sent on a weekday (Monday-Friday) before 4:00pm ET will get a response *the same day*. 
+- Messages sent after 4:00pm ET Monday-Thursday will get a response *the next day*. 
+- Messages sent after 4:00pm on Fridays or on the weekend will get a response *the following Monday*. 
+
+**Please plan ahead for instructor availability.** Some assignments are due on Sunday evenings; if you don't begin the assignment until Friday afternoon and encounter a question, you may not be able to get help from me in time. 
+
 ### Special accommodations and basic needs 
+
+If you have special needs because of learning, physical or other disabilities, it is your responsibility to contact Disability Support Resources (DSR) at (616)331-2490 or http://www.gvsu.edu/dsr/. DSR will help you arrange accommodations. Then, speak with me in person about making those accommodations and ensure that they are consistent with your arrangements with DSR.
+
+If you have difficulty affording groceries or accessing sufficient food to eat every day, or if you lack a safe and stable place to live, I encourage you to visit [Replenish](https://www.gvsu.edu/replenish/), a food resource for GVSU students. If you are comfortable doing so, please speak with me about your circumstances so that I can advocate for you and to connect you with other campus resources.
+
+If, for purposes of gender identity and expression, your official name (in Banner) does not match your preferred name, your name can be updated in Blackboard. Please contact the registrar's office to submit this request. The registrar's office will contact the Blackboard administrator to make the change and will also contact your professors to inform them that your name in Banner will not match the name in Blackboard.
 
 ## About the instructor 
 
@@ -223,7 +324,7 @@ I was, at best, a thoroughly mediocre math student in school until my senior yea
 
 After a two-year gig as a Psychology major in college, I changed my major to math after a late-night dare from my roommate (long story) and, to my great surprise, I fell in love with the subject. I ended up getting a Ph.D. working in an obscure area at the intersection of abstract algebra and geometry, and I also discovered I loved teaching math to college students. So I went on to spend 14 years teaching in [small liberal arts colleges](http://franklincollege.edu) before coming to GVSU in 2011.
 
-Now, I teach computer scientists and engineers how to think like mathematicians, I do research on how to make college teaching better, and I coordinate large-scale teaching/learning projects for President Mantella's office. (The fancy active learning classroom in which we are meeting, is one of my projects.) When nobody is looking, I am working on my skills in Python and R, learning data science, and dabbling in project management. 
+Now, I teach computer scientists and engineers how to think like mathematicians, I do research on how to make college teaching better, and I coordinate large-scale teaching/learning projects for President Mantella's office. When nobody is looking, I am working on my skills in Python and R, learning data science, and dabbling in project management. 
 
 I live in Allendale with my wife, two teenage kids (there's another kid who lives in Greenville), and three cats. I'm a long-time bass guitar player and a lover of the outdoors. I aspire to spend more time in a kayak or on a bike than in front of a computer. You can read more about what I'm thinking and doing at my website, [rtalbert.org](https://rtalbert.org), or at my "other blog" [Grading for Growth](https://gradingforgrowth.com) about alternative grading practices which I co-author with my GVSU colleague Prof. David Clark. I'm also on Twitter at [@RobertTalbert](http://twitter.com/RobertTalbert) and on [LinkedIn](https://www.linkedin.com/in/roberttalbert/). I will accept any connection request on LinkedIn from a student! 
 
