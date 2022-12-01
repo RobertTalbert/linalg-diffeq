@@ -162,9 +162,44 @@ Additionally, we will have a brief but comprehensive **final exam**, graded usin
 
 ## Course grades 
 
+Your course grade is assigned using the table below. To earn a grade, complete **all** the requirements listed in the row for that grade. The numbers in parentheses indicate the maximum number of the assignment that is planned; if any of those numbers changes during the semester, the grade table will be updated accordingly. 
 
+| Grade | Total of Class Preps and Practice (100) | Application/Analysis (11) | Skill Quizzes (12) | Miniprojects |
+|:-----:|:---------------------------------------:|:-------------------------:|:------------------:|:------------:|
+|   A   |                   85                    |             9             |         11         |      5       |
+|   B   |                   75                    |             7             |         10          |      3       |
+|   C   |                   65                    |             5             |         9          |      1       |
+|   D   |                   40                    |             2             |         4          |      0       |
+
+A grade of "F" is assigned if not all of the requirements for a "D" are met. 
+
+**Plus/minus grades:** A "plus" is given on a letter grade if you satisfy all the requirements for that grade, *plus* one of the following:
+
+- Earn an 85% or higher on the final exam, or 
+- Complete two categories in the grade table for the next grade level up, not including Class Prep/Practice. 
+
+A "minus" is given on a letter grade if you satisfy all the requirements for that grade, but one of the following is true: 
+
+- You earn a 50% or lower on the final exam, or 
+- You satisfy all the requirements for a grade except Class Prep/Practice. In this case, the exact amount by which the grade is lowered will be determined in a discussion between you and the professor; extremely low levels of Class Prep/Practice may warrant a larger penalty than a "minus". 
+
+*Exceptions:* GVSU does not award grades of A+ or D-. 
+
+To track your grade as the semester unfolds, you can use the *Course Grade Tracker* handout that is posted on Blackboard in the *Syllabus and Calendar* area. 
 
 ## Revisions and reattempts 
+
+To encourage your participation in a feedback loop with your work, **you can revise or reattempt most assignments you turn in, without penalty, until it meets the criteria for acceptable work given in the *Standards for Student Work* document.** Not all work can be revised, and some work has limitations on revision. Here are the details: 
+
+| Assignment | Revisions allowed | How to revise and resubmit | 
+| :-------: | :----------------: | :-------------------------: | 
+| Class Prep | *May not be revised.* | n/a | 
+| Practice Sets | Problems can be retried as often as needed before the deadline. | Submit a new answer on WeBWorK. | 
+| Application/Analysis | Application/Analysis sets may be revised **once per set**. | Submit a revision on Blackboard. | 
+| Skill Quizzes | Each skill appears on three consecutive quizzes. | Retry the skill on a subsequent quiz. | 
+| Miniprojects | Up to **two revisions per week** of miniprojects may be submitted. | Submit a revision on Blackboard. | 
+
+
 
 ## Academic integrity and honesty 
 
