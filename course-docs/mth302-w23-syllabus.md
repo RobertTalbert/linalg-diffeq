@@ -29,7 +29,7 @@ All course materials for MTH 302 are available on GitHub at https://github.com/R
 - **Class meetings:** Section 03 meets TR 2:00-3:50 in EC 421. Section 04 meets TR 4:00-5:50 in EC 710. 
 - **Instructor:** Robert Talbert, Ph.D., Professor of Mathematics. 
 - **Office location:** MAK C-2-513, but I will be using **INSERT PERCHING OFFICE HERE**. 
-- **Drop-in hours:** 3:00-5:00pm in Mackinac Hall C-2-513. Online visits are available by appointment at https://calendly.com/robert-talbert/online-drop-in-meeting.  
+- **Drop-in hours:** 12:30-1:50 TR in EC 712C. Please feel free to drop in during these times with any question you have. These are in-person hours; if you need an online meeting during those hours, please go to https://calendly.com/robert-talbert and select **INSERT OPTION NAME HERE** 
 - **Appointments outside drop-in hours:** Available on a limited basis. Go to https://calendly.com/robert-talbert, choose a meeting type, then choose an open 20-minute time slot. 
 - **Contacting the prof:** Email (talbertr@gvsu.edu) is preferred. Be sure to read my availability/response policy.  **INSERT LINK**
 - **Course calendar:** The official course calendar is in Appendix B and on Blackboard. *In case of a date conflict on assignments or course documents, the Class Calendar is assumed to be correct.* 
@@ -91,7 +91,7 @@ The course content is split up into four distinct modules:
 - **Systems of differential equations:** Solving systems of DEs using eigenvalues; homogeneous first-order systems; systems with linearly independent eigenvectors; systems without linearly independent eigenvectors; nonhomogeneous systems. 
 - **Further explorations:** Higher-order DEs and their connection to systems; Laplace transform methods. 
 
-There are many sub-topics that you'll be learning and practicing throughout the course. However, there are twelve **Foundational Skills** that are essential for all students to master. These are listed in Appendix A, Foundational Skills. 
+There are many sub-topics that you'll be learning and practicing throughout the course. However, there are eleven **Foundational Skills** that are essential for all students to master. These are listed in Appendix A, Foundational Skills. 
 
 ### The flow of a typical week 
 
@@ -143,7 +143,7 @@ There are five major kinds of assignments in MTH 302:
 - **Practice Sets:** These are weekly practice exercises over the basic computations we learn. These are completed using WeBWorK, a platform for online homework. Typically 5-7 problems per week are assigned and are graded 1 point if the answer is correct and 0 points otherwise. 
 - **Class Prep:** These will give you the basic knowledge of terms, ideas, and basic concepts that will allow us to jump right into applications when we get to class. They involve reading portions of your textbook (and occasionally watching video), engaging in asking questions about what you read, and answering some simple questions about the content. 
 - **Application and Analysis:** In class, we will work in groups on higher-level tasks involving application and analysis of the basics. You'll be responsible for individually completing this work that you start in groups during class, and turning it in to be checked for basic overall correctness. 
-- **Skill Quizzes:** Each Thursday, we'll take time in class for a timed quiz over a subset of the twelve Foundational Skills found in Appendix A. Each skill will appear on *three consecutive quizzes* so you'll have three attempts at each. 
+- **Skill Quizzes:** Each Thursday, we'll take time in class for a timed quiz over a subset of the eleven Foundational Skills found in Appendix A. Each skill will appear on *three consecutive quizzes* so you'll have three attempts at each. 
 - **Miniprojects:** These are longer-form problems that involve deeper applications of the concepts from class, on applications in a variety of domains and in problems whose solutions require computer tools and good technical writing. 
 
 Each of these assignments is graded as follows: 
@@ -164,11 +164,11 @@ Additionally, we will have a brief but comprehensive **final exam**, graded usin
 
 Your course grade is assigned using the table below. To earn a grade, complete **all** the requirements listed in the row for that grade. The numbers in parentheses indicate the maximum number of the assignment that is planned; if any of those numbers changes during the semester, the grade table will be updated accordingly. 
 
-| Grade | Total of Class Preps and Practice (100) | Application/Analysis (11) | Skill Quizzes (12) | Miniprojects |
+| Grade | Total of Class Preps and Practice (100) | Application/Analysis (11) | Skill Quizzes (11) | Miniprojects |
 |:-----:|:---------------------------------------:|:-------------------------:|:------------------:|:------------:|
-|   A   |                   85                    |             9             |         11         |      5       |
-|   B   |                   75                    |             7             |         10          |      3       |
-|   C   |                   65                    |             5             |         9          |      1       |
+|   A   |                   85                    |             9             |         10         |      5       |
+|   B   |                   75                    |             7             |         9          |      3       |
+|   C   |                   65                    |             5             |         8          |      1       |
 |   D   |                   40                    |             2             |         4          |      0       |
 
 A grade of "F" is assigned if not all of the requirements for a "D" are met. 
@@ -330,7 +330,7 @@ I live in Allendale with my wife, two teenage kids (there's another kid who live
 
 ## Appendix A: Foundational Skills 
 
-The following twelve skills are considered essential skills for competency in the course. Your course grade is partially determined by how many of these you can demonstrate mastery. The ones labelled "LA" are related to linear algebra; the ones labelled "DE" are related to differential equations. 
+The following eleven skills are considered essential skills for competency in the course. Your course grade is partially determined by how many of these you can demonstrate mastery. The ones labelled "LA" are related to linear algebra; the ones labelled "DE" are related to differential equations. 
 
 - LA.1: I can solve a system of linear equations by converting it into an augmented matrix and putting into reduced row echelon form. 
 - LA.2: I can determine if a vector is in the span of a collection of other vectors. 
@@ -343,7 +343,7 @@ The following twelve skills are considered essential skills for competency in th
 - DE.3: I can generate a numerical solution to a first-order differential equation using Euler's method. 
 - DE.4: I can solve a linear system of two differential equations. 
 - DE.5: I can solve a linear, homogeneous second-order differential equation. 
-- DE.6: I can compute basic Laplace transforms.  
+<!-- - DE.6: I can compute basic Laplace transforms.   -->
 
 ## Appendix B: Course Calendar 
 
