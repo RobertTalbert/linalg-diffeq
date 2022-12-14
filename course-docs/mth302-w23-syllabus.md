@@ -20,16 +20,16 @@ Both tool sets are foundational in their own right; but as we will see, they can
 
 **This syllabus contains all the information you need to navigate the course.** The main document will be kept continuously up to date at this link. When you see blue- or purple-underlined text in the syllabus or any other document, it's a clickable link. For example, [click here for a cat video](https://www.youtube.com/watch?v=aFuUidBR1aQ). A PDF version of the syllabus will also be available on Blackboard in the *Syllabus and Calendar* area, but it will not be updated unless there is a major change. 
 
-**This document is meant to be read once, then searched as needed.** If you need to find something, the easiest way is to pull up the document, hit `Control-F` and then do a search for the text you're looking for. 
+**This document is meant to be read once, then searched as needed.** If you need to find something, the easiest way is to pull up this  document, hit `Control-F` and then do a search for the text you're looking for. 
 
-All course materials for MTH 302 are available on GitHub at https://github.com/RobertTalbert/linalg-diffeq. 
+All course materials for MTH 302 are available on GitHub at https://github.com/RobertTalbert/linalg-diffeq. Critically important documents (syllabus, etc.) will also be on Blackboard. 
 
 ## Course information 
 
 - **Class meetings:** Section 03 meets TR 2:00-3:50 in EC 421. Section 04 meets TR 4:00-5:50 in EC 710. 
 - **Instructor:** Robert Talbert, Ph.D., Professor of Mathematics. 
-- **Office location:** MAK C-2-513, but I will be using **INSERT PERCHING OFFICE HERE**. 
-- **Drop-in hours:** 12:30-1:50 TR in EC 712C. Please feel free to drop in during these times with any question you have. These are in-person hours; if you need an online meeting during those hours, please go to https://calendly.com/robert-talbert and select **INSERT OPTION NAME HERE** 
+- **Office location:** MAK C-2-513 on the Allendale campus, but I will be using **EC 712C** for drop-in hours. 
+- **Drop-in hours:** 12:30-1:50 TR in EC 712C. Please feel free to drop in during these times with any question you have. These are in-person hours; if you need an online meeting during those hours, please go to https://calendly.com/robert-talbert/mth-302-online-visit-during-drop-in-hours. 
 - **Appointments outside drop-in hours:** Available on a limited basis. Go to https://calendly.com/robert-talbert, choose a meeting type, then choose an open 20-minute time slot. 
 - **Contacting the prof:** Email (talbertr@gvsu.edu) is preferred. Be sure to read my availability/response policy.  **INSERT LINK**
 - **Course calendar:** The official course calendar is in Appendix B and on Blackboard. *In case of a date conflict on assignments or course documents, the Class Calendar is assumed to be correct.* 
@@ -58,7 +58,7 @@ We'll get fluent with all of these tools during the first week of class using so
 
 On your end, your success in the course depends on three things: 
 
-1. **Active engagement during class time**. All the available research on learning says that the best way to learn is to be an active participant in the process. Students who approach the class with a passive mindset typically struggle, and often fail. Those who approach it with an active mindset, on the other hand, often surprise themselves with how much and how well they learn. Make it a priority not to just attend and take notes, but *get involved*. 
+1. **Active engagement during class time**. The best way to learn is to be an active participant in the process. Students who approach the class with a passive mindset typically struggle, and often fail. But those who approach it with an active mindset, on the other hand, often surprise themselves with how much and how well they learn. Make it a priority not to just attend and take notes, but *get involved*. 
 2. **Asking questions**. The material in MTH 302 can be challenging, and it is 100% certain you will be lost, confused, and/or stuck at times. **This is not a defect -- it means you're doing the course right.** When it happens, don't wait for things to make sense on their own: *Ask questions* of me and your classmates and take action to make sense of the material. 
 3. **Good management of time, tasks, and information.** Understanding the material won't help you if you procrastinate, skip reading announcements, or don't use a calendar. All course information will be clearly laid out for you, but it's up to you to import that information into your own lives and act on it. 
 
@@ -95,17 +95,17 @@ There are many sub-topics that you'll be learning and practicing throughout the 
 
 ### The flow of a typical week 
 
-While we meet only on Tuesdays and Thursdays, you're expected to work actively on the course throughout the week. Each class meeting has activities for you to do *before*, *during* and *after* the class. Specific kinds of assignments are given **in bold face** and are explained fully in the next section. 
+While we meet only on Tuesdays and Thursdays, you're expected to work actively on the course throughout the week. You'll be working on activities *before*, *during* and *after* class meetings and these all are designed to work together. Specific kinds of assignments are given **in bold face** and are explained fully in the next section. 
 
 - *Before each class:* You'll be asked to complete a **Class Prep** assignment where you'll do a combination of reading, video viewing, and other activities then answering basic questions about it. This way, you'll come to class ready to work, and we can keep lecturing in class to a minimum.
-- *During class:* Class meetings will be focused on *answering questions* and *doing active work*. Much of this work will be turned in later. We'll also sometimes use class meetings for assessment.  
-- *In between classes:* You'll be working on the Class Prep for the next class meeting; completing **Practice Sets** on WeBWorK, a platform for doing online exercises; writing up the work you do in groups during class time to turn in as **Application and Analysis** assignments; and completing **Miniprojects**. You can also use this time to come to drop-in hours or ask questions via email. 
+- *During class:* Class meetings will be focused on *answering questions* and *doing active work*. Much of this work will be turned in later as **Application and Analysis** assignments. We'll also sometimes use class meetings for assessment.  
+- *In between classes:* You'll be working on the Class Prep for the next class meeting; completing **Practice Sets** on WeBWorK, a platform for doing online exercises; writing up the work you do in groups during class time to turn in Application and Analysis assignments; and completing **Miniprojects**. You can also use this time to come to drop-in hours or ask questions via email. 
 
 Due dates on these assignments happen on a consistent schedule: 
 
-- Practice Sets are always due at 11:59pm ET on Sundays. 
-- Class Preps are always due at 11:59pm ET on Mondays and Wednesdays (the night before the class meeting).
-- Application/Analysis sets are always due at 11:59pm ET on Wednesdays. 
+- Practice Sets are always due at **11:59pm ET on Sundays**. 
+- Class Preps are always due at **11:59pm ET on Mondays and Wednesdays** (the night before the class meeting).
+- Application/Analysis sets are always due at **11:59pm ET on Wednesdays**. 
 
 Visually, a typical week in MTH 302 looks like this: 
 
@@ -124,10 +124,10 @@ The way grades work in MTH 302 is different from what you might have experienced
 - **Almost none of your assignments have point values**. The ones that do have point values, are given either 0 or 1 points only. Therefore there is **no partial credit and no averaging**. 
 - Instead, assignments have **specifications** which are descriptions of what constitutes "acceptable" work. These are given in detail in the document *Standards for Student Work* which you can find on Blackboard in the *Syllabus and Calendar* area. When you submit an assignment, I will read it carefully and compare it with the standards, and simply determine whether it meets the specifications or not. 
 - After I evaluate your work, in most cases you will receive **detailed feedback** that will tell you whether your work meets the standards, and if not, the feedback will tell you what was missing and how you might go about fixing it. 
-- Then, on almost every piece of work, you will have the chance to **retry** the assignment, get more feedback, and repeat this **feedback loop** until the work meets our specifications. 
+- Then, on almost every piece of work, you will have the chance to **retry** the assignment if needed, get more feedback, and repeat this **feedback loop** until the work meets our specifications. 
 - Your course grade is not based on point totals or averages (because most items don't have point values). Instead, the course grade is based on **how many important learning tasks you've accomplished** by the end of the semester, using a simple table that's given below. 
 
-This process, using specifications and feedback loops rather than points and averages, is actually how evaluation of work happens in most situations outside of college. In your future jobs, for example, you'll be reviewed regularly by your manager; it's not a "one and done" situation where you get a point score and then the process is over. Instead, in a real job, you get feedback and coaching on how to improve, and then you act on the feedback and show the boss that you have improved. 
+This process, using specifications and feedback loops rather than points and averages, is how evaluation of work happens in most situations outside of college. In your future jobs, for example, you'll be reviewed regularly by your manager; it's not a "one and done" situation where you get a point score and then the process is over. Instead, in a real job, you get feedback and coaching on how to improve, and then you act on the feedback and show the boss that you have improved. 
 
 Therefore grades in MTH 302 are based not on your ability to do good work at a single point in time, but rather on your ability to **eventually learn the material** by acting on feedback from previous attempts. 
 
@@ -151,7 +151,7 @@ Each of these assignments is graded as follows:
 | Assignment | Basis for grading | What's recorded on Blackboard | 
 | :---------: |  :---------: |  :---------: | 
 | Practice Sets | Correctness | Nothing; scores are kept on WeBWorK | 
-| Class Prep | Completeness and effort only | *Complete* or *Incomplete* (will appear as a green check or red x) | 
+| Class Prep | Completeness and effort only | *Complete* or *Incomplete* | 
 | Application/Analysis | Completeness and overall correctness | *Success*, *Retry*, or *Incomplete* | 
 | Skill Quizzes | Overall correctness | *Success* or *Retry* | 
 | Miniprojects |  Completeness, overall correctness, writing, and presentation | *Success*, *Retry*, or *Incomplete* | 
@@ -219,7 +219,7 @@ Different assignments in MTH 302 have different levels of acceptable collaborati
 There are two important exceptions to these rules: 
 
 - *Technical* details about an assignment --- for example how to format an equation in Markdown, or getting general help on using Jupyter notebooks --- is fine to discuss in whatever level of detail you want with anyone else. 
-- **You can ask me (Talbert) any question you want, about anything, at any time.** Getting help from the professor is not academically dishonest! In case I cannot answer a question because it would reveal spoilers for the solution, I'll tell you so. 
+- **You can ask me (Talbert) any question you want, about anything, at any time.** Getting help from the professor is not academically dishonest! In case I cannot answer a question because it would reveal spoilers for the solution, I'll tell you so and it will be no big deal. 
 
 PLEASE NOTE: **There's no need to be academically dishonest in MTH 302, because you can revise and resubmit.** Rather than cheat, *do your best, ask questions, and use the revision process* so that you really grow and learn in the course. 
 
@@ -263,20 +263,18 @@ Revisions of Application/Analysis sets will also have deadlines, which will be a
 
 ### Deadline extensions
 
-If you are working on a Practice Set, Application/Analysis set, or Miniproject, and need a little additional time to complete your work, you can extend the deadline by filling out the **Due Date Change Request Form** found in the Blackboard sidebar. You do not need approval; this form is simply informing me of when you plan on turning in the work. Please note, you may not get timely feedback on your work if you change the due date. If you ask for repeated extensions, I will likely reach out to see if we can find ways to help you keep up better. 
+If you are working on an Application/Analysis set or Miniproject, and need a little additional time to complete your work, you can extend the deadline by filling out the **Due Date Change Request Form** found in the Blackboard sidebar. You do not need approval; this form is simply informing me of when you plan on turning in the work. Please note, you may not get timely feedback on your work if you change the due date. If you ask for repeated extensions, I will likely reach out to see if we can find ways to help you keep up better. 
 
 The reason we have such a liberal policy on deadlines is that this is how it works in the real world. In the real world, due dates and deadlines exist, but studies have shown that most of these are flexible, assigned mainly as a "commitment device" to help you stay motivated to complete the task. But, if you need more time to get the job done well, you email whoever set the deadline and ask if you can have some more time. Studies have shown[^1] that deadline extensions, when requested in moderation and when truly needed, can lead to better evaluation (and better work).
 
 [^1]: "Go Ahead and Ask for More Time on that Deadline", https://hbr.org/2021/12/go-ahead-and-ask-for-more-time-on-that-deadline
 
-However, please note, there are some limitations on deadline extensions: 
+However, please note, there are some **limitations on deadline extensions**: 
 
-- Deadline extensions are expected to be reasonable, for example a few hours or a single day. If you ask for a significantly long extension, I will likely overrule it and give you a shorter extension instead, which you'll be expected to follow. 
-- Deadlines may not be extended twice on the same assignment. 
-- Extending the deadline on a Practice Set (on WeBWorK) requires at least 24 hours notice so I can set you up on WeBWorK with a custom deadline. 
-- Class Prep deadlines may not be extended. 
-- Skill Quizzes must be completed in class, so their deadlines may not be extended. 
-- The final deadline for Miniprojects (11:59pm ET April 16) may not be extended. 
+- **Deadlines for Class Prep, Skill Quizzes, and Practice Sets (WeBWorK) may not be extended**. Class Preps are time-sensitive and are only effective if completed before class. Skill Quizzes are done in class. Practice Sets have a week or more, with unlimited reattempts before completion; they also take a nontrivial amount of work to reset deadlines for individuals. 
+- **Deadline extensions should be no more than 24 hours.** If you ask for something longer than that, you'll need to explain why, and I may ask you to turn it in sooner. 
+- **Deadlines may not be extended twice on the same assignment**. Simply choose a reasonable deadline extension once, then abide by it. 
+- The **final deadline for Miniprojects (11:59pm ET April 16) may not be extended**. 
 
 ### Technology skills and support 
 
