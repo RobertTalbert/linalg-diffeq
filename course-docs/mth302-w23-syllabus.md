@@ -3,7 +3,7 @@
 (insert graphic here)
 
 > All models are wrong, but some are useful. 
-> 
+> -- George Box
 
 ## About MTH 302 and this syllabus
 
@@ -16,7 +16,7 @@ In MTH 302 we model and understand these systems using two fundamental tools:
 - **Linear algebra**, the study of systems of linear equations and their solutions; and 
 - **Differential equations**, which studies equations that connect the current state of a quantity to its rates of change. 
 
-Both tool sets are foundational in their own right; but as we will see, they can also mutually support each other in interesting and useful ways. 
+Both tool sets are foundational in their own right. But as we will see, they can also mutually support each other in interesting and useful ways. 
 
 **This syllabus contains all the information you need to navigate the course.** The main document will be kept continuously up to date at this link. When you see blue- or purple-underlined text in the syllabus or any other document, it's a clickable link. For example, [click here for a cat video](https://www.youtube.com/watch?v=aFuUidBR1aQ). A PDF version of the syllabus will also be available on Blackboard in the *Syllabus and Calendar* area, but it will not be updated unless there is a major change. 
 
@@ -31,7 +31,7 @@ All course materials for MTH 302 are available on GitHub at https://github.com/R
 - **Office location:** MAK C-2-513 on the Allendale campus, but I will be using **EC 712C** for drop-in hours. 
 - **Drop-in hours:** 12:30-1:50 TR in EC 712C. Please feel free to drop in during these times with any question you have. These are in-person hours; if you need an online meeting during those hours, please go to https://calendly.com/robert-talbert/mth-302-online-visit-during-drop-in-hours. 
 - **Appointments outside drop-in hours:** Available on a limited basis. Go to https://calendly.com/robert-talbert, choose a meeting type, then choose an open 20-minute time slot. 
-- **Contacting the prof:** Email (talbertr@gvsu.edu) is preferred. Be sure to read my availability/response policy.  **INSERT LINK**
+- **Contacting the prof:** Email (talbertr@gvsu.edu) is preferred. Be sure to read the *Instructor availability and message responses* policy later in this syllabus.  
 - **Course calendar:** The official course calendar is in Appendix B and on Blackboard. *In case of a date conflict on assignments or course documents, the Class Calendar is assumed to be correct.* 
 - **Definition of "week":** In our course, a "week" is defined to begin at 12:01am ET on *Monday* and end at 11:59pm ET the following *Sunday*. 
 - **Blackboard and announcements:** Our Blackboard page is at https://lms.gvsu.edu. Announcements will be posted on Sundays, with occasional mid-week announcements. *Be sure to check announcements, email, and the calendar at least once daily.*
@@ -44,7 +44,7 @@ All course materials for MTH 302 are available on GitHub at https://github.com/R
 - **Jupyter notebooks** via **Google Colab** (http://colab.research.google.com): Jupyter is an open-source graphical notebook interface for working with Python. Colab is a Google product for working with Jupyter notebooks, that lives in the cloud and can be connected to your GVSU Google Drive. 
 - **Miro** (http://miro.com): An online whiteboard tool for presentations and collaborative work. We'll use it in class from time to time. 
 
-We'll get fluent with all of these tools during the first week of class using some custom tutorial videos I have made. 
+We'll get fluent with all of these tools during the first week of class. 
 
 ## How to succeed in MTH 302 
 
@@ -74,12 +74,10 @@ After successful completion of the course, you will be able to…
 
 1. Explain the geometric and physical significance of the concepts of linear algebra.
 2. Apply linear algebra and differential equations to mathematical modeling.
-3. Apply computational and analytical techniques to formulate, solve, and interpret
-mathematical models.
+3. Apply computational and analytical techniques to formulate, solve, and interpret mathematical models.
 1. Apply quantitative methods to ordinary differential equations.
 2. Use computer algebra systems such as Maple®, Matlab®, and/or Mathematica®.
-3. Explain how concepts in linear algebra and differential equations can be generalized to
-different contexts.
+3. Explain how concepts in linear algebra and differential equations can be generalized to different contexts.
 7. Use modern computer tools (Python, specifically the SymPy and NumPy packages) to analyze and solve problems involving linear algebra and differential equations. 
 
 ### How MTH 302 is set up 
@@ -141,7 +139,7 @@ Those are the main concepts; the details are in the rest of the syllabus. Most s
 There are five major kinds of assignments in MTH 302: 
 
 - **Practice Sets:** These are weekly practice exercises over the basic computations we learn. These are completed using WeBWorK, a platform for online homework. Typically 5-7 problems per week are assigned and are graded 1 point if the answer is correct and 0 points otherwise. 
-- **Class Prep:** These will give you the basic knowledge of terms, ideas, and basic concepts that will allow us to jump right into applications when we get to class. They involve reading portions of your textbook (and occasionally watching video), engaging in asking questions about what you read, and answering some simple questions about the content. 
+- **Class Prep:** These are done prior to class and will give you the basic knowledge of terms, ideas, and basic concepts that will allow us to jump right into applications when we get to class. They involve reading portions of your textbook (and occasionally watching video), engaging in asking questions about what you read, and answering some simple questions about the content. 
 - **Application and Analysis:** In class, we will work in groups on higher-level tasks involving application and analysis of the basics. You'll be responsible for individually completing this work that you start in groups during class, and turning it in to be checked for basic overall correctness. 
 - **Skill Quizzes:** Each Thursday, we'll take time in class for a timed quiz over a subset of the eleven Foundational Skills found in Appendix A. Each skill will appear on *three consecutive quizzes* so you'll have three attempts at each. 
 - **Miniprojects:** These are longer-form problems that involve deeper applications of the concepts from class, on applications in a variety of domains and in problems whose solutions require computer tools and good technical writing. 
@@ -151,7 +149,7 @@ Each of these assignments is graded as follows:
 | Assignment | Basis for grading | What's recorded on Blackboard | 
 | :---------: |  :---------: |  :---------: | 
 | Practice Sets | Correctness | Nothing; scores are kept on WeBWorK | 
-| Class Prep | Completeness and effort only | *Complete* or *Incomplete* | 
+| Class Prep | Completeness and effort only | *Success* or *Incomplete* | 
 | Application/Analysis | Completeness and overall correctness | *Success*, *Retry*, or *Incomplete* | 
 | Skill Quizzes | Overall correctness | *Success* or *Retry* | 
 | Miniprojects |  Completeness, overall correctness, writing, and presentation | *Success*, *Retry*, or *Incomplete* | 
@@ -162,7 +160,7 @@ Additionally, we will have a brief but comprehensive **final exam**, graded usin
 
 ## Course grades 
 
-Your course grade is assigned using the table below. To earn a grade, complete **all** the requirements listed in the row for that grade. The numbers in parentheses indicate the maximum number of the assignment that is planned; if any of those numbers changes during the semester, the grade table will be updated accordingly. 
+Your course grade is assigned using the table below. Each row indicates the number of "Successful" results needed to satisfy the requirement for that grade. (For example, earning a "B" requires nine (9) or more *Success* marks on Skill Quizzes.) To earn a grade, complete **all** the requirements listed in the row for that grade. The numbers in parentheses indicate the maximum number of the assignment that is planned; if any of those numbers changes during the semester, the grade table will be updated accordingly. 
 
 | Grade | Total of Class Preps and Practice (100) | Application/Analysis (11) | Skill Quizzes (11) | Miniprojects |
 |:-----:|:---------------------------------------:|:-------------------------:|:------------------:|:------------:|
@@ -172,6 +170,8 @@ Your course grade is assigned using the table below. To earn a grade, complete *
 |   D   |                   40                    |             2             |         4          |      0       |
 
 A grade of "F" is assigned if not all of the requirements for a "D" are met. 
+
+Note: Practice sets are graded using points, and a "Successful" Class Prep counts as one point. 
 
 **Plus/minus grades:** A "plus" is given on a letter grade if you satisfy all the requirements for that grade, *plus* one of the following:
 
@@ -253,7 +253,7 @@ Assignments in MTH 302 follow a consistent schedule of deadlines:
 - Practice Sets are always due Sundays at 11:59pm ET. 
 - Class Preps for a given class meeting are always due at 11:59pm ET the night before that meeting.
 - Application/Analysis sets are always due Wednesdays at 11:59pm ET (on Blackboard). 
-- Skill Quizzes are done in class on Thursdays, and are due at the end of the class. 
+- Skill Quizzes are begun in class on Thursdays; if you don't complete in the time allowed, you may take until 11:59pm ET that evening to finish and upload your work. 
 
 All deadlines are listed on the course calendar as well. 
 
@@ -263,7 +263,7 @@ Revisions of Application/Analysis sets will also have deadlines, which will be a
 
 ### Deadline extensions
 
-If you are working on an Application/Analysis set or Miniproject, and need a little additional time to complete your work, you can extend the deadline by filling out the **Due Date Change Request Form** found in the Blackboard sidebar. You do not need approval; this form is simply informing me of when you plan on turning in the work. Please note, you may not get timely feedback on your work if you change the due date. If you ask for repeated extensions, I will likely reach out to see if we can find ways to help you keep up better. 
+If you are working on an Application/Analysis set, Skill Quiz, or Miniproject, and need a little additional time to complete your work, you can extend the deadline by filling out the **Due Date Change Request Form** found in the Blackboard sidebar. You do not need approval; this form is simply informing me of when you plan on turning in the work. Please note, you may not get timely feedback on your work if you change the due date. If you ask for repeated extensions, I will likely reach out to see if we can find ways to help you keep up better. 
 
 The reason we have such a liberal policy on deadlines is that this is how it works in the real world. In the real world, due dates and deadlines exist, but studies have shown that most of these are flexible, assigned mainly as a "commitment device" to help you stay motivated to complete the task. But, if you need more time to get the job done well, you email whoever set the deadline and ask if you can have some more time. Studies have shown[^1] that deadline extensions, when requested in moderation and when truly needed, can lead to better evaluation (and better work).
 
@@ -271,7 +271,7 @@ The reason we have such a liberal policy on deadlines is that this is how it wor
 
 However, please note, there are some **limitations on deadline extensions**: 
 
-- **Deadlines for Class Prep, Skill Quizzes, and Practice Sets (WeBWorK) may not be extended**. Class Preps are time-sensitive and are only effective if completed before class. Skill Quizzes are done in class. Practice Sets have a week or more, with unlimited reattempts before completion; they also take a nontrivial amount of work to reset deadlines for individuals. 
+- **Deadlines for Class Prep and Practice Sets (WeBWorK) may not be extended**. Class Preps are time-sensitive and are only effective if completed before class. Skill Quizzes are done in class. Practice Sets have a week or more, with unlimited reattempts before completion; they also take a nontrivial amount of work to reset deadlines for individuals. 
 - **Deadline extensions should be no more than 24 hours.** If you ask for something longer than that, you'll need to explain why, and I may ask you to turn it in sooner. 
 - **Deadlines may not be extended twice on the same assignment**. Simply choose a reasonable deadline extension once, then abide by it. 
 - The **final deadline for Miniprojects (11:59pm ET April 16) may not be extended**. 
@@ -348,6 +348,12 @@ The following eleven skills are considered essential skills for competency in th
 You can access the calendar directly at this link: https://calendar.google.com/calendar/u/1?cid=Y183MGRiN2ExZjIyNzc0OTYxOTEwY2IxN2ZlNzRhZjBjMDNhNzg3NDY5YjhlMzNiYWE0OGNhYzNlNTZjMjNhNDAwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20  It's also embedded on Blackboard in the *Syllabus and Calendar* area, as well as below (although some web versions may not display it). 
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_70db7a1f22774961910cb17fe74af0c03a787469b8e33baa48cac3e56c23a400%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+**Important dates:**
+
+- Tuesday, January 24: No class, Prof. Talbert out of town
+- Monday, March 6--Friday, March 10: Spring Break
+- Thursday, April 21: Last class meeting
 
 ## Appendix C: Course Tools and Links
 
