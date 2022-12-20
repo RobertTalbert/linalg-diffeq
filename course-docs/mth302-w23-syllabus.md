@@ -160,7 +160,7 @@ Additionally, we will have a brief but comprehensive **final exam**, graded usin
 
 ## Course grades 
 
-Your course grade is assigned using the table below. Each row indicates the number of "Successful" results needed to satisfy the requirement for that grade. (For example, earning a "B" requires nine (9) or more *Success* marks on Skill Quizzes.) To earn a grade, complete **all** the requirements listed in the row for that grade. The numbers in parentheses indicate the maximum number of the assignment that is planned; if any of those numbers changes during the semester, the grade table will be updated accordingly. 
+Your course grade is assigned using the table below. Each row indicates the *minimum* number of "Successful" results needed to satisfy the requirement for that grade. (For example, earning a "B" requires nine (9) or more *Success* marks on Skill Quizzes.) To earn a grade, complete **all** the requirements listed in the row for that grade. The numbers in parentheses indicate the maximum number of the assignment that is planned; if any of those numbers changes during the semester, the grade table will be updated accordingly. 
 
 | Grade | Total of Class Preps and Practice (100) | Application/Analysis (11) | Skill Quizzes (11) | Miniprojects |
 |:-----:|:---------------------------------------:|:-------------------------:|:------------------:|:------------:|
