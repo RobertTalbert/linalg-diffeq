@@ -29,8 +29,8 @@ All course materials for MTH 302 are available on GitHub at https://github.com/R
 - **Class meetings:** Section 03 meets TR 2:00-3:50 in EC 421. Section 04 meets TR 4:00-5:50 in EC 710. 
 - **Instructor:** Robert Talbert, Ph.D., Professor of Mathematics. 
 - **Office location:** MAK C-2-513 on the Allendale campus, but I will be using **EC 712C** for drop-in hours. 
-- **Drop-in hours:** 12:30-1:50 TR in EC 712C. Please feel free to drop in during these times with any question you have. These are in-person hours; if you need an online meeting during those hours, please go to https://calendly.com/robert-talbert/mth-302-online-visit-during-drop-in-hours. 
-- **Appointments outside drop-in hours:** Available on a limited basis. Go to https://calendly.com/robert-talbert, choose a meeting type, then choose an open 20-minute time slot. 
+- **Drop-in hours:** 12:30-1:50 TR in EC 712C. Please feel free to drop in during these times with any question you have. *No appointment is necessary!* These are in-person; if you need an online meeting during those hours, please go to https://calendly.com/robert-talbert/mth-302-online-visit-during-drop-in-hours. 
+- **Appointments outside drop-in hours:** Available on a limited basis on Mondays and Wednesdays. Go to https://calendly.com/robert-talbert, choose a meeting type, then choose an open 20-minute time slot. 
 - **Contacting the prof:** Email (talbertr@gvsu.edu) is preferred. Be sure to read the *Instructor availability and message responses* policy later in this syllabus.  
 - **Course calendar:** The official course calendar is in Appendix B and on Blackboard. *In case of a date conflict on assignments or course documents, the Class Calendar is assumed to be correct.* 
 - **Definition of "week":** In our course, a "week" is defined to begin at 12:01am ET on *Monday* and end at 11:59pm ET the following *Sunday*. 
@@ -42,7 +42,7 @@ All course materials for MTH 302 are available on GitHub at https://github.com/R
 - **Perusall** (http://perusall.com): An online tool for collaborative reading and viewing. 
 - **Python**: A widely-used and easy to learn programming environment. We will not be doing much actual programming in the course, but instead using two packages for doing math: **SymPy** (a package for doing symbolic math) and **NumPy** (for numerical analysis). 
 - **Jupyter notebooks** via **Google Colab** (http://colab.research.google.com): Jupyter is an open-source graphical notebook interface for working with Python. Colab is a Google product for working with Jupyter notebooks, that lives in the cloud and can be connected to your GVSU Google Drive. 
-- **Miro** (http://miro.com): An online whiteboard tool for presentations and collaborative work. We'll use it in class from time to time. 
+<!-- - **Miro** (http://miro.com): An online whiteboard tool for presentations and collaborative work. We'll use it in class from time to time.  -->
 
 We'll get fluent with all of these tools during the first week of class. 
 
@@ -171,7 +171,7 @@ Your course grade is assigned using the table below. Each row indicates the *min
 
 A grade of "F" is assigned if not all of the requirements for a "D" are met. 
 
-Note: Practice sets are graded using points, and a "Successful" Class Prep counts as one point. 
+Note: Practice sets are graded using points; also, each *Success* mark on a Class Prep counts as one point. There are 24 Class Prep assignments planned, and at least 76 Practice exercises. 
 
 **Plus/minus grades:** A "plus" is given on a letter grade if you satisfy all the requirements for that grade, *plus* one of the following:
 
@@ -212,14 +212,16 @@ Academic misconduct is a serious matter and carries significant consequences, up
 Different assignments in MTH 302 have different levels of acceptable collaboration. These are detailed below. **It's your job to read these carefully, know what is acceptable and what is not acceptable on each kind of assignment, and stay within bounds.** 
 
 - On *Class Prep*, you are **allowed and encouraged to collaborate with others** as long as your  responses reflect your own understanding and are not merely copied from another. Remember, these are only graded on completeness and effort, and mistakes are not penalized. 
-- On *Practice Sets* and *Miniprojects*, you are **allowed to engage in general discussions of strategy only, but no collaboration on the details of a problem are allowed.** Practice Set problems use randomized elements to ensure that no two students receive the exact same problem. 
+- On *Practice Sets* and *Miniprojects*, you are **allowed to engage in general discussions of strategy only with others, but no collaboration on the details of a problem are allowed.** Practice Set problems use randomized elements to ensure that no two students receive the exact same problem. 
 - On *Application/Analysis* sets, you **will work in groups during class time to start** on these sets but **they must be finished individually with no collaboration beyond what took place in class**. For example if you need to talk with one of your group members to clarify something they said during class, that is OK; but it is not OK to question that person further about work that didn't take place during class. 
 - On *Skill Quizzes*, these are done in class and **no collaboration is allowed at all**. 
+
+**Definition of "others" in these policies:** Collaboration with "others" includes current students in your section of MTH 302; students in other sections of MTH 302; former students from MTH 302; discussion-oriented websites like StackExchange or Reddit; and artificial intelligence applications such as ChatGPT. The intention here is that **the work you submit is your thinking, not someone else's.** 
 
 There are two important exceptions to these rules: 
 
 - *Technical* details about an assignment --- for example how to format an equation in Markdown, or getting general help on using Jupyter notebooks --- is fine to discuss in whatever level of detail you want with anyone else. 
-- **You can ask me (Talbert) any question you want, about anything, at any time.** Getting help from the professor is not academically dishonest! In case I cannot answer a question because it would reveal spoilers for the solution, I'll tell you so and it will be no big deal. 
+- **You can ask me (Talbert) any question you want, about anything, at any time.** Getting help from the professor is not academic dishonesty! In case I cannot answer a question because it would reveal spoilers for the solution, I'll tell you so and it will be no big deal. 
 
 PLEASE NOTE: **There's no need to be academically dishonest in MTH 302, because you can revise and resubmit.** Rather than cheat, *do your best, ask questions, and use the revision process* so that you really grow and learn in the course. 
 
@@ -244,6 +246,10 @@ Make every effort to get yourself unstuck and resolve your questions on your own
     - If you are absent from a Skill Quiz, no makeups are available. Each Foundational Skill appears on three separate quizzes, so if you miss one, you'll be expected to make an attempt on the next quiz.
 
 Exceptions to these rules are always up for discussion. If you believe you need special accommodation, please contact me as soon as possible to discuss it. 
+
+### Inclement weather 
+
+In case of a major weather event that makes in-person meeting inadvisable, **class will be moved online**. You'll be provided with links to the tools for doing this in case it becomes necessary. **Class will not be cancelled completely unless the university itself closes.** Make sure to check your email daily for announcements about changes to the class. 
 
 
 ### Deadlines and late work 
