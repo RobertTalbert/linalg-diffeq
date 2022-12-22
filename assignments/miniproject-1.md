@@ -64,8 +64,7 @@ Please review the section on Miniprojects in the document [Standards For Student
 
 Your work here is being evaluated *partially* on whether your math and code are correct; but just as much on whether your reasoning is correct and clearly expressed. Make sure to pay close attention to both. 
 
-
-Miniproject 1 in particular **must be done in a Jupyter notebook using SymPy to carry out all mathematical calculations**. A sample notebook, demonstrating the solution to a Calculus problem, can be found here. Study this first before writing up your work. 
+Miniproject 1 in particular **must be done in a Jupyter notebook using SymPy to carry out all mathematical calculations**. [A sample notebook, demonstrating the solution to a Calculus problem, can be found here](https://github.com/RobertTalbert/linalg-diffeq/blob/main/tutorials/Example_of_solution_in_a_notebook.ipynb). Study this first before writing up your work. 
 
 It's likely that writing up your Miniproject work in a Jupyter notebook will become standard practice for later Miniprojects. 
 ### How to submit
