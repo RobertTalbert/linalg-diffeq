@@ -13,7 +13,7 @@ In this miniproject you will learn about *Markov chains* and use them to make pr
 Complete the following before beginning this miniproject. These are not to be turned in! But you won't get far on the assignment without doing them. 
 
 - Read Section 1.3.1 (Markov chains: An application of matrix-vector multiplication) on pages 26--28 in the textbook and work through the examples shown. 
-- If needed, watch the tutorial video where I walk through Example 1.3.3. This also shows how to use SymPy to do some of the math. 
+- If needed, [watch the tutorial video where I walk through Example 1.3.3](https://gvsu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=97c3c6f8-d68e-461c-ac95-af72010dec46). This also shows how to use SymPy to do some of the math. 
 - Practice with SymPy by using it to work Exercises 1-4 on page 29. 
 
 ## Assignment 
