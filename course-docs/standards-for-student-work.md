@@ -14,7 +14,7 @@ Class Prep submissions consist of answers to questions that are submitted via an
 
 |    Mark    |                                                                   Criteria                                                                    |
 | :--------: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
-|  **Complete**  | Every item on the form that is not marked "Optional" has a complete and good-faith response; and the form is submitted prior to the deadline. |
+|  **Success**  | Every item on the form that is not marked "Optional" has a complete and good-faith response; and the form is submitted prior to the deadline. |
 | **Incomplete** |   **Either** there is a question whose response is left blank (and is not marked "Optional"), **or** the form is submitted late.                                                                                                                                          |
 
 
