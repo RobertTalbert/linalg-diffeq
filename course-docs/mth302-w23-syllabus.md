@@ -1,8 +1,9 @@
 # MTH 302: Linear Algebra and Differential Equations
 
-(insert graphic here)
+![](mth302-banner.jpg)
 
 > All models are wrong, but some are useful. 
+> 
 > -- George Box
 
 ## About MTH 302 and this syllabus
@@ -231,6 +232,7 @@ As mentioned, you will almost certainly find yourself lost, stuck, or confused o
 
 Make every effort to get yourself unstuck and resolve your questions on your own first. But then: 
 
+* **On Practice Sets, click the "Email the instructor" link for personalized help on a problem**. This will draft an email to me where you can ask a question, and it includes a link to your most recent attempt at the problem. *Please use this link rather than sending a separate email.* 
 * **Attend drop-in hours and ask questions there.** You can use the in-person drop-in hours, the online ones, or both. No appointment needed. 
 * [Schedule an appointment through Calendly](https://calendly.com/robert-talbert/) if drop-in hours don't work for you. 
 * **Work with a classmate** as long as you're staying within bounds on academic honesty above. In particular, working in groups on Class Prep is a very good idea and will help keep you from getting stuck at the beginning of a new concept. 
@@ -290,13 +292,12 @@ You should be proficient in the basic technology skills listed at [this GVSU pol
 
 **Tech support:** Technology issues will happen with almost 100% certainty, usually at the worst possible moment. **When this happens, do NOT contact me first!** Instead, contact the appropriate person or office listed below: 
 
-:::success
 * For help with **Blackboard:** Email the Blackboard Help Desk at bbadmin@gvsu.edu or call (616)331-8526. For hours of operation and more information see http://www.gvsu.edu/elearn/help. 
 * For help with **the GVSU network, email, or printing**: Email the GVSU IT Help Desk at helpdesk@gvsu.edu; or call (616)331-2101 or toll free (855)435-7488. For hours of operation and more information see https://www.gvsu.edu/it. 
 * For help with **your computer:** Try the GVSU IT Help Desk (above) or contact your device's manufacturer or a computer store. 
 * For help with **Perusall:** Contact **Perusall Help** at https://support.perusall.com. 
 * For help with **any other technology:** Ask a question of a classmate (or me), seek out the help documentation in the tool you are using, or do a targeted Google search. 
-:::
+
 
 **If technology issues prevent submitting work:** If you have contacted an appropriate source of help and an issue still persists that prevents you from turning in work in the usual way (for example on Blackboard), **you are expected to take alternative measures to get your work turned in on time.** For example, if Blackboard is offline and a deadline is near, send an email with an attachment. Then, submit the work using the normal means later. 
 
