@@ -152,7 +152,7 @@ Each of these assignments is graded as follows:
 | Practice Sets | Correctness | Nothing; scores are kept on WeBWorK | 
 | Class Prep | Completeness and effort only | *Success* or *Incomplete* | 
 | Application/Analysis | Completeness and overall correctness | *Success*, *Retry*, or *Incomplete* | 
-| Skill Quizzes | Overall correctness | *Success* or *Retry* | 
+| Foundational Skills (via Skill Quizzes) | Overall correctness | *Success* or *Retry* | 
 | Miniprojects |  Completeness, overall correctness, writing, and presentation | *Success*, *Retry*, or *Incomplete* | 
 
 The document *Standards for Student Work* gives a complete description of the specific criteria used for grading these assignments.  
@@ -161,9 +161,9 @@ Additionally, we will have a brief but comprehensive **final exam**, graded usin
 
 ## Course grades 
 
-Your course grade is assigned using the table below. Each row indicates the *minimum* number of "Successful" results needed to satisfy the requirement for that grade. (For example, earning a "B" requires nine (9) or more *Success* marks on Skill Quizzes.) To earn a grade, complete **all** the requirements listed in the row for that grade. The numbers in parentheses indicate the maximum number of the assignment that is planned; if any of those numbers changes during the semester, the grade table will be updated accordingly. 
+Your course grade is assigned using the table below. Each row indicates the *minimum* number of "Successful" results needed to satisfy the requirement for that grade. (For example, earning a "B" requires nine (9) or more *Success* marks on Foundational Skill problems on skill quizzes.) To earn a grade, complete **all** the requirements listed in the row for that grade. The numbers in parentheses indicate the maximum number of the assignment that is planned; if any of those numbers changes during the semester, the grade table will be updated accordingly. 
 
-| Grade | Total of Class Preps and Practice (100) | Application/Analysis (11) | Skill Quizzes (11) | Miniprojects (8) |
+| Grade | Total of Class Preps and Practice (100) | Application/Analysis (11) | Foundational Skills (11) | Miniprojects (8) |
 |:-----:|:---------------------------------------:|:-------------------------:|:------------------:|:------------:|
 |   A   |                   85                    |             9             |         10         |      5       |
 |   B   |                   75                    |             7             |         9          |      3       |
@@ -197,7 +197,7 @@ To encourage your participation in a feedback loop with your work, **you can rev
 | Class Prep | *May not be revised.* | n/a | 
 | Practice Sets | Problems can be retried as often as needed before the deadline. | Submit a new answer on WeBWorK. | 
 | Application/Analysis | Application/Analysis sets may be revised **once per set**. | Submit a revision on Blackboard. | 
-| Skill Quizzes | Each skill appears on three consecutive quizzes. | Retry the skill on a subsequent quiz. | 
+| Foundational Skills | Each skill appears on three consecutive quizzes. | Retry the skill on a subsequent quiz. | 
 | Miniprojects | Up to **two revisions per week** of miniprojects may be submitted. | Submit a revision on Blackboard. | 
 
 
@@ -245,7 +245,7 @@ Make every effort to get yourself unstuck and resolve your questions on your own
 - **Remote attendance** (via live-streaming or recorded class meetings) is generally not offered in MTH 302. If you are in a situation where you believe you need a remote attendance option, please let me know as soon as possible; but please note I may not be able to accommodate you immediately. 
 - **Absences** from class do not require permission from me or prior notification, although a heads-up is helpful. However: 
     - If you are absent, you will not have the benefit of working with your group on Application/Analysis; you will be expected to complete the set on your own. 
-    - If you are absent from a Skill Quiz, no makeups are available. Each Foundational Skill appears on three separate quizzes, so if you miss one, you'll be expected to make an attempt on the next quiz.
+    - If you are absent from a Skill Quiz, no makeups are available, but the work is not due on Blackboard until 11:59pm ET that evening. Each Foundational Skill appears on three separate quizzes, so if you miss one and do not turn in the work that day, you'll be expected to make an attempt on the next quiz.
 
 Exceptions to these rules are always up for discussion. If you believe you need special accommodation, please contact me as soon as possible to discuss it. 
 
