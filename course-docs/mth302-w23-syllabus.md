@@ -358,7 +358,7 @@ You can access the calendar directly at this link: https://calendar.google.com/c
 
 **Important dates:**
 
-- Tuesday, January 24: No class, Prof. Talbert out of town
+- Tuesday, January 24 and Thursday, January 26: No class, Prof. Talbert out of town
 - Monday, March 6--Friday, March 10: Spring Break
 - Thursday, April 21: Last class meeting
 
