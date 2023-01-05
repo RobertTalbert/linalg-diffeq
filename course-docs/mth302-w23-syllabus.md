@@ -27,7 +27,7 @@ All course materials for MTH 302 are available on GitHub at https://github.com/R
 
 ## Course information 
 
-- **Class meetings:** Section 03 meets TR 2:00-3:50 in EC 421. Section 04 meets TR 4:00-5:50 in EC 710. 
+- **Class meetings:** Both sections meet in Eberhard Center (EC) 710. Section 03 meets TR 2:00-3:50; Section 04 meets TR 4:00-5:50. 
 - **Instructor:** Robert Talbert, Ph.D., Professor of Mathematics. 
 - **Office location:** MAK C-2-513 on the Allendale campus, but I will be using **EC 712C** for drop-in hours. 
 - **Drop-in hours:** 12:30-1:50 TR in EC 712C. Please feel free to drop in during these times with any question you have. *No appointment is necessary!* These are in-person; if you need an online meeting during those hours, please go to https://calendly.com/robert-talbert/mth-302-online-visit-during-drop-in-hours. 
