@@ -1,0 +1,191 @@
+---
+title: "Linear equations and systems"
+author: "MTH 302"
+format: revealjs
+jupyter: python3
+---
+
+::: {.callout-note}
+## Example
+Tickets to a basketball game are 25 for kids and 50 for adults. At one of the games, 2000 people attend and the total gate revenue is $70,000. 
+
+**How many kids attended, and how many adults?** 
+:::
+
+Let $x$ be the number of children attending and $y$ the number of adults. Write **two equations** that represent the two pieces of info in the second sentence. 
+
+---
+
+$$\begin{align*}
+x + y &= 2000 \\
+25x + 50y &= 70000
+\end{align*}$$
+
+:::{.callout-note}
+## Linear equation
+A *linear equation in $n$ variables* is an equation that looks like this:
+
+$a_1 x_1 + a_2x_2 + \cdots + a_n x_n = b$ 
+
+Left side is nothing but variables multiplied by numbers and then added together. Nothing else is done to the variables. 
+:::
+
+---
+
+$$\begin{align*}
+x + y &= 2000 \\
+25x + 50y &= 70000
+\end{align*}$$
+
+:::{.callout-note}
+## System of equations
+A **system of $m$ linear equations in $n$ unknowns** (or an "$m \times n$ system") is a collection of $m$ linear equations with $n$ variables. A **solution** to a system is a list of specific values for the variables that makes all the equations in the system true at the same time. 
+:::
+
+A $3 \times 5$ linear system: 
+$$\begin{align*}
+2x_1 + 3x_2 - x_4 + 3x_5 &= 10 \\
+x_2 + x_4 &= 1 \\
+-x_1 + 3x_2 + 5x_3 + 2x_4 - 100x_5 &= 0 
+\end{align*}$$
+
+---
+
+![](ge1)
+
+---
+
+$$\begin{align*}
+x + y &= 2000 \\
+25x + 50y &= 70000
+\end{align*}$$
+
+:::{.callout-important}
+## Activity
+
+Using whatever means you can think of, determine if this $2 \times 2$ system has a solution. If it doesn't have a solution, be ready to explain why. If it does have a solution, figure out *how many* it has, and what it is/they are. 
+:::
+
+---
+
+## There are basically three ways to find solutions to a system 
+
+You can **graph** the equations and see if their graphs intersect. This works OK for systems with two variables: 
+
+```{python}
+from sympy import *
+x, y = symbols('x y')
+p1 = plot(2000 - x, (x,-10,2000), show = False)
+p2 = plot((70000-25*x)/50, (x, -10, 2000), show = False)
+p1.append(p2[0])
+p1
+p1.show()
+```
+
+---
+
+...but for three variables, it gets weird: 
+
+$$\begin{align*}
+x + y + z &= 3 \\   
+y - z &= 2 \\ 
+2x + y + z &= 4 
+\end{align*}$$
+
+```{python}
+from sympy.plotting import plot3d
+x,y,z = symbols('x y z')
+p1 = plot3d(3 - x - y, (x,-5,5), (y,-5,5), show=False)
+p2 = plot3d(y - 2, (x,-5,5), (y,-5,5), show=False)
+p3 = plot3d(4 - 2*x - y, (x,-5,5), (y,-5,5), show=False)
+p1.append(p2[0])
+p1.append(p3[0])
+p1
+p1.show()
+```
+
+---
+
+You could also **substitute**: Pick an equation, solve for a variable, plug in to the other equations, and repeat until you have values. Tedious but doable for 2 or 3 variables. 
+
+But this?
+$$\begin{align*}
+2x_1 + 3x_2 - x_4 + 3x_5 &= 10 \\
+x_2 + x_4 &= 1 \\
+-x_1 + 3x_2 + 5x_3 + 2x_4 - 100x_5 &= 0 
+\end{align*}$$
+
+--- 
+
+The best option is **elimination**. Works by performing a combination of three *elementary operations*: 
+
+1. *Replace* a row, with the sum of itself and a multiple of another row. 
+2. *Swap* any two rows. 
+3. *Scale* a row by multiplying both sides by a nonzero constant. 
+
+Each operation produces a system that is **equivalent** to the original one (it has the same solutions). 
+
+At the board: how this works. 
+
+--- 
+
+:::{.callout-important}
+## KEY INSIGHT
+The variables in the elimination process don't matter that much. They are just there as placeholders for the coefficients. So forget them and put the coefficients and right-hand sides into an array called the **augmented matrix** for the system. 
+:::
+
+$$\begin{align*}
+x + y + z &= 3 \\   
+y - z &= 2 \\ 
+2x + y + z &= 4 
+\end{align*}$$
+
+$$\begin{bmatrix}
+1 & 1 & 1 & 3 \\ 
+0 & 1 & -1 & 2 \\ 
+2 & 1 & 1 & 4
+\end{bmatrix}$$
+Now you can do elimination just with the matrix. (Board) 
+
+---
+
+$$\begin{equation*}
+\begin{alignedat}{4}
+x &  {}+{}  & 2y &  &  &  {}={}  & 4 \\
+2x &  {}+{}  & y &  {}-{}  & 3z &  {}={}  & 11 \\
+-3x &  {}-{}  & 2y &  {}+{}  & z &  {}={}  & -10 \\
+\end{alignedat}
+\end{equation*}$$
+
+:::{.callout-important}
+## Activity
+Convert this system into an augmented matrix. Then use a sequence of the three elementary operations to try to find a solution (there may not be one). 
+:::
+
+---
+
+```{python}
+from sympy import * 
+init_printing()
+M = Matrix(3,4, [1,2,0,4,2,1,-3,11, -3, -2, 1, -10])
+M.rref(pivots = False)
+```
+
+This matrix is in **reduced row echelon form (RREF)**: 
+
+- If there are any rows that are all zero, they are at the bottom. 
+- The first nonzero entry in a given row is $1$, and it's in a column that's to the right of the first nonzero entry in any row above it. 
+- Every other entry in a column with a leading $1$ is $0$. 
+
+---
+
+![](ge2)
+
+---
+
+## Facts about RREF
+
+- Once the augmented matrix for a system is in RREF, you can tell everything about its solutions.
+- The process of putting a matrix into RREF is called **Gauss-Jordan elimination** and it's kind of a big deal
+- *Skill LA.1: I can solve a system of linear equations by converting it into an augmented matrix and putting into reduced row echelon form*. Coming next Thursday on Skill Quiz 1 and in Practice Set 1. 
+- **But this is the only place you will be asked to do elimination by hand!** In all other situations you will use a computer. 
