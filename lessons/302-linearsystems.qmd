@@ -106,7 +106,26 @@ p1.show()
 
 ---
 
-You could also **substitute**: Pick an equation, solve for a variable, plug in to the other equations, and repeat until you have values. Tedious but doable for 2 or 3 variables. 
+## But graphical intuition is very important for us
+
+Since solutions to systems are intersections of lines or planes (ir higher-dimensional versions of these): 
+
+- A solution might have solutions (the system is **consistent**), or it might have none (it's **inconsistent**)
+- A consistent system can have either **exactly one** solution, or **infinitely many solutions**, but nothing in between. 
+
+Need pictures here 
+
+---
+
+Example of a consistent system with one solution: 
+
+Example of a consistent system with infinitely many solutions: 
+
+Example of an inconsistent system: 
+
+---
+
+Back to solution methods: You could also **substitute** - Pick an equation, solve for a variable, plug in to the other equations, and repeat until you have values. Tedious but doable for 2 or 3 variables. 
 
 But this?
 $$\begin{align*}
@@ -179,13 +198,37 @@ This matrix is in **reduced row echelon form (RREF)**:
 
 ---
 
+## RREF gives you complete information about solutions
+
+A quick glance at the RREF of a system's augmented matrix tells you whether or not a system is consistent; and if it's consistent, how many solutions it has. 
+
+Consistent with one solution: 
+$\begin{bmatrix}
+1 & 0 & 2 \\
+0 & 1 & -5 
+\end{matrix}$ 
+
+Consistent with infinitely many solutions: 
+$\begin{bmatrix}
+1 & 0 & 2 & 1 \\
+0 & 1 & -1 & -5  
+\end{matrix}$ 
+
+Inconsistent: 
+$\begin{bmatrix}
+1 & 0 & 2 \\
+0 & 0 & -5 
+\end{matrix}$ 
+
+---
+
 ![](ge2)
 
 ---
 
-## Facts about RREF
+## More facts about RREF
 
-- Once the augmented matrix for a system is in RREF, you can tell everything about its solutions.
 - The process of putting a matrix into RREF is called **Gauss-Jordan elimination** and it's kind of a big deal
 - *Skill LA.1: I can solve a system of linear equations by converting it into an augmented matrix and putting into reduced row echelon form*. Coming next Thursday on Skill Quiz 1 and in Practice Set 1. 
 - **But this is the only place you will be asked to do elimination by hand!** In all other situations you will use a computer. 
+- So don't stress over doing RREF by hand, just practice until you do it on simple systems without a bunch of mistakes. $\rightarrow$ **Optional RREF Practice set on WeBWorK** 
