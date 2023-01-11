@@ -1,6 +1,6 @@
 ---
 title: "Linear equations and systems"
-author: "MTH 302"
+author: "MTH 302 January 12"
 format: revealjs
 jupyter: python3
 ---
@@ -113,21 +113,33 @@ Since solutions to systems are intersections of lines or planes (ir higher-dimen
 - A solution might have solutions (the system is **consistent**), or it might have none (it's **inconsistent**)
 - A consistent system can have either **exactly one** solution, or **infinitely many solutions**, but nothing in between. 
 
-Need pictures here 
+[Check this out](https://www.desmos.com/calculator/wrajgsvua6)
 
 ---
 
-Example of a consistent system with one solution: 
+Example of a *consistent* system with *exactly one* solution: 
+$$\begin{align*}
+x + y &= 2 \\
+x - y &= 0
+\end{align*}$$
 
-Example of a consistent system with infinitely many solutions: 
+Example of a *consistent* system with *infinitely many* solutions: 
+$$\begin{align*}
+x + y &= 2 \\
+3x + 3y &= 6
+\end{align*}$$
 
-Example of an inconsistent system: 
+Example of an *inconsistent* system: 
+$$\begin{align*}
+x + y &= 2 \\
+x + y &= 0
+\end{align*}$$
 
 ---
 
 Back to solution methods: You could also **substitute** - Pick an equation, solve for a variable, plug in to the other equations, and repeat until you have values. Tedious but doable for 2 or 3 variables. 
 
-But this?
+But this? No thanks: 
 $$\begin{align*}
 2x_1 + 3x_2 - x_4 + 3x_5 &= 10 \\
 x_2 + x_4 &= 1 \\
@@ -145,6 +157,30 @@ The best option is **elimination**. Works by performing a combination of three *
 Each operation produces a system that is **equivalent** to the original one (it has the same solutions). 
 
 At the board: how this works. 
+
+---
+
+$\begin{align*}
+x + y &= 3 \\ 
+y - z &= 2 \\ 
+2x + y + z &= 4 
+\end{align*}$ 
+$\Longrightarrow$
+$\begin{align*}
+x + z &= 1 \\ 
+y - z &= 2 \\ 
+0 &= 0
+\end{align*}$
+
+```{python}
+from sympy.plotting import plot3d
+x,y,z = symbols('x y z')
+p1 = plot3d(3 - x - y, (x,-5,5), (y,-5,5), show=False)
+p2 = plot3d(y - 2, (x,-5,5), (y,-5,5), show=False)
+p1.append(p2[0])
+p1
+p1.show()
+```
 
 --- 
 
@@ -198,27 +234,40 @@ This matrix is in **reduced row echelon form (RREF)**:
 
 ---
 
-## RREF gives you complete information about solutions
-
-A quick glance at the RREF of a system's augmented matrix tells you whether or not a system is consistent; and if it's consistent, how many solutions it has. 
-
 Consistent with one solution: 
-$\begin{bmatrix}
+$$\begin{bmatrix}
 1 & 0 & 2 \\
 0 & 1 & -5 
-\end{matrix}$ 
+\end{bmatrix}$$ 
 
 Consistent with infinitely many solutions: 
-$\begin{bmatrix}
+$$\begin{bmatrix}
 1 & 0 & 2 & 1 \\
 0 & 1 & -1 & -5  
-\end{matrix}$ 
+\end{bmatrix}$$ 
 
 Inconsistent: 
-$\begin{bmatrix}
+$$\begin{bmatrix}
 1 & 0 & 2 \\
 0 & 0 & -5 
-\end{matrix}$ 
+\end{bmatrix}$$ 
+
+--- 
+
+$$\begin{bmatrix}
+1 & 0 & 2 & 1 \\
+0 & 1 & -1 & -5  
+\end{bmatrix}$$ 
+
+Is shorthand for the system 
+$$\begin{align*}
+x_1 + 2x_3 &= 1 \\  
+x_2 - x_3 &= -5
+\end{align*}$$
+To find a solution: Pick anything for $x_3$. Then $x_1 = 1 - 2x_3$ and $x_2 = x_3 - 5$. 
+
+- $x_3$ is a **free variable**
+- $x_1$ and $x_2$ are **pivots** or sometimes "determined" or "dependent" variables
 
 ---
 
@@ -231,4 +280,39 @@ $\begin{bmatrix}
 - The process of putting a matrix into RREF is called **Gauss-Jordan elimination** and it's kind of a big deal
 - *Skill LA.1: I can solve a system of linear equations by converting it into an augmented matrix and putting into reduced row echelon form*. Coming next Thursday on Skill Quiz 1 and in Practice Set 1. 
 - **But this is the only place you will be asked to do elimination by hand!** In all other situations you will use a computer. 
-- So don't stress over doing RREF by hand, just practice until you do it on simple systems without a bunch of mistakes. $\rightarrow$ **Optional RREF Practice set on WeBWorK** 
+- So don't stress over doing RREF by hand, just practice until you can do it on simple systems without a bunch of mistakes. $\rightarrow$ **Optional RREF Practice set on WeBWorK** 
+
+---
+
+```{mermaid}
+flowchart TD
+A[System] --> B[Convert to augmented matrix]
+B -->|Usually with a computer| R[Get to RREF]
+R --> C{{Pivot in last column?}}
+C -->|Yes|I[Inconsistent]
+C -->|No|P{{Pivot in each column except last?}}
+P -->|Yes|E[Consistent and one solution]
+E -->X[Read off solution]
+P -->|No|F[Consistent and infinitely many solutions]
+F -->Y[Identify free variables and set up relationships between these and pivots]
+```
+
+
+---
+
+![](system.png)
+
+Solve this system using matrices. If there are no solutions, say so and explain how you know (using a matrix).
+
+
+
+---
+
+## Next
+
+- Remainder of today: Choose your adventure. Get 1-1 help; work on Practice Set 1; work on Startup tasks; work on RREF practice
+- (Section 04 only) Please put tables back in rows 
+- Sunday: Complete Practice Set 1 by 11:59pm ET 
+- Tuesday: 
+    - Complete Class Prep for Jan 17 (Blackboard > Class Prep) by 11:59pm ET **Monday** 
+    - Focus for Tuesday: Linear combinations of vectors (and what this has to do with solutions to systems)

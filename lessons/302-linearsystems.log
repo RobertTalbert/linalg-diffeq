@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.18)  6 JAN 2023 16:11
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.1.6)  11 JAN 2023 11:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **302-linearsystems.tex
 (./302-linearsystems.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2022-11-02> (/Users/roberttalbert/Library/TinyTeX/texmf-dist/tex/latex/koma-script/scrartcl.cls
+L3 programming layer <2022-12-17> (/Users/roberttalbert/Library/TinyTeX/texmf-dist/tex/latex/koma-script/scrartcl.cls
 Document Class: scrartcl 2022/10/12 v3.38 KOMA-Script document class (article)
 (/Users/roberttalbert/Library/TinyTeX/texmf-dist/tex/latex/koma-script/scrkbase.sty
 Package: scrkbase 2022/10/12 v3.38 KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
@@ -225,7 +225,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 ) (/Users/roberttalbert/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ) (/Users/roberttalbert/Library/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math.sty (/Users/roberttalbert/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2022-11-02 L3 programming layer (loader) 
+Package: expl3 2022-12-17 L3 programming layer (loader) 
 (/Users/roberttalbert/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2022-10-26 L3 backend support: XeTeX
 \g__graphics_track_int=\count268
@@ -238,9 +238,9 @@ Package: unicode-math 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
 (/Users/roberttalbert/Library/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.sty
 Package: unicode-math-xetex 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
 (/Users/roberttalbert/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2022-06-22 L3 Experimental document command parser
+Package: xparse 2022-12-17 L3 Experimental document command parser
 ) (/Users/roberttalbert/Library/TinyTeX/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-Package: l3keys2e 2022-06-22 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2022-12-17 LaTeX2e option processing using LaTeX3 keys
 ) (/Users/roberttalbert/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty
 Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 (/Users/roberttalbert/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
@@ -1134,21 +1134,21 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 File: mt-TU-empty.cfg 2021/06/22 v1.1 microtype config. file: fonts with nonstandard glyph set (RS)
 )
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.665pt on input line 219.
+(Font)              scaled to size 7.665pt on input line 222.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.475pt on input line 219.
+(Font)              scaled to size 5.475pt on input line 222.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.95099pt on input line 219.
+(Font)              scaled to size 10.95099pt on input line 222.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.66568pt on input line 219.
+(Font)              scaled to size 7.66568pt on input line 222.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.4755pt on input line 219.
+(Font)              scaled to size 5.4755pt on input line 222.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 10.94882pt on input line 219.
+(Font)              scaled to size 10.94882pt on input line 222.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.66417pt on input line 219.
+(Font)              scaled to size 7.66417pt on input line 222.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.47441pt on input line 219.
+(Font)              scaled to size 5.47441pt on input line 222.
 
 ! Package amsmath Error: Erroneous nesting of equation structures;
 (amsmath)                trying to recover with `aligned'.
@@ -1157,15 +1157,15 @@ See the amsmath package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.228 \end{align*}
+l.231 \end{align*}
                   \] 
 Here is how much of TeX's memory you used:
- 39321 strings out of 477620
- 818890 string characters out of 5839441
- 1445500 words of memory out of 5000000
- 59915 multiletter control sequences out of 15000+600000
- 475674 words of font info for 76 fonts, out of 8000000 for 9000
+ 39346 strings out of 478757
+ 819544 string characters out of 5848525
+ 1845979 words of memory out of 5000000
+ 58805 multiletter control sequences out of 15000+600000
+ 518710 words of font info for 81 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 108i,6n,121p,10612b,931s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,6n,121p,10612b,937s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 No pages of output.
