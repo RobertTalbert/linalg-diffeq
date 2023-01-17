@@ -1,0 +1,3 @@
+# Ignore drafts of assessments so students can't see them
+
+/assessments/drafts
