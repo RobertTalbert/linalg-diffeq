@@ -2,7 +2,7 @@
 
 ## Overview 
 
-In this miniproject you will learn about *Markov chains* and use them to make predictions about long term trends in population growth and car ownership. 
+In this miniproject you will learn about *Markov chains* and use them to make predictions about long term trends in population growth and US voter activity. 
 
 **Prerequisites**: You'll need to know how to multiply a matrix times a vector, both by hand and using SymPy. 
 
