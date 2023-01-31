@@ -2,11 +2,11 @@
 
 ## Overview 
 
-In this miniproject you will learn about *Markov chains* and use them to make predictions about long term trends in population growth and car ownership. 
+In this miniproject you will learn about *Markov chains* and use them to make predictions about long term trends in population growth and US voter activity. 
 
 **Prerequisites**: You'll need to know how to multiply a matrix times a vector, both by hand and using SymPy. 
 
-**Initial deadline**: *Fill in here later*. This is the deadline for all *first* drafts of your solution. If you turn in a good-faith effort at a complete and correct solution by this date, you may continue to revise and resubmit as needed with no additional deadlines, until the final deadline of 11:59pm ET Sunday April 16. However, no *first* drafts will be accepted after the initial deadline. 
+**Initial deadline**: *Sunday, February 5 at 11:59pm ET.*. This is the deadline for all *first* drafts of your solution. If you turn in a good-faith effort at a complete and correct solution by this date, you may continue to revise and resubmit as needed with no additional deadlines, until the final deadline of 11:59pm ET Sunday April 16. However, no *first* drafts will be accepted after the initial deadline. 
 
 ## Background
 
