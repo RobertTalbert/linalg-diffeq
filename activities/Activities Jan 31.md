@@ -32,7 +32,7 @@ Work on these in groups. Activities labeled **AA** will be included in Applicati
 
 2. For each of the sets of vectors in question 1, determine whether or not those vectors span $\mathbb{R}^2$ (in parts (a) and (b)) or $\mathbb{R}^3$ (in part (c)). *Hint*: No additional computations are necessary beyond those for the first question. 
 
-3. Consider the differential equation $y''- y = 0$. This is called a *second-order* differential equation because it relates a function $y$ to its second derivative. A solution to this DE will be a function, $y(t)$, which when added to its second derivative, equals 0. 
+3. Consider the differential equation $y''- y = 0$. This is called a *second-order* differential equation because it relates a function $y$ to its second derivative. A solution to this DE will be a function, $y(t)$, which is equal to its second derivative. 
 
    (a) Show by direct substitution that the functions $y_1 = e^t$ and $y_2 = e^{-t}$ are solutions to $y'' - y = 0$. 
 
