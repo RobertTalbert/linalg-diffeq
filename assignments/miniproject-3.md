@@ -4,7 +4,7 @@ class: mth302
 
 # Miniproject 3
 
-**Initial due date: Sunday, xxx at 11:59pm ET**
+**Initial due date: Sunday, March 12 at 11:59pm ET**
 
 ## Overview 
 
