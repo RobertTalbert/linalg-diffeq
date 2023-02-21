@@ -269,7 +269,7 @@ Each miniproject comes with an **initial deadline**. Your **first attempt** on a
 
 Revisions of Application/Analysis sets will also have deadlines, which will be announced in class. Revisions will typically be due one week after the original set is graded. 
 
-### Deadline extensions
+### Due Date changes
 
 If you are working on an Application/Analysis set, Skill Quiz, or Miniproject, and need a little additional time to complete your work, you can extend the deadline by filling out the **Due Date Change Request Form** found in the Blackboard sidebar. You do not need approval; this form is simply informing me of when you plan on turning in the work. Please note, you may not get timely feedback on your work if you change the due date. If you ask for repeated extensions, I will likely reach out to see if we can find ways to help you keep up better. 
 
@@ -281,6 +281,7 @@ However, please note, there are some **limitations on deadline extensions**:
 
 - **Deadlines for Class Prep and Practice Sets (WeBWorK) may not be extended**. Class Preps are time-sensitive and are only effective if completed before class. Practice Sets have a week or more, with unlimited reattempts before completion; they also take a nontrivial amount of work to reset deadlines for individuals. 
 - **Deadline extensions should be no more than 24 hours.** If you ask for something longer than that, you'll need to explain why, and I may ask you to turn it in sooner. 
+- **The due date that you choose is a hard deadline**. If you submit work after the new date, it will not be accepted. Choose wisely the first time and abide by your decision. 
 - **Deadlines may not be extended twice on the same assignment**. Simply choose a reasonable deadline extension once, then abide by it. 
 - The **final deadline for Miniprojects (11:59pm ET April 16) may not be extended**. 
 
