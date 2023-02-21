@@ -280,7 +280,7 @@ The reason we have such a liberal policy on deadlines is that this is how it wor
 However, please note, there are some **limitations on deadline extensions**: 
 
 - **Deadlines for Class Prep and Practice Sets (WeBWorK) may not be extended**. Class Preps are time-sensitive and are only effective if completed before class. Practice Sets have a week or more, with unlimited reattempts before completion; they also take a nontrivial amount of work to reset deadlines for individuals. 
-- **Deadline extensions should be no more than 24 hours.** If you ask for something longer than that, you'll need to explain why, and I may ask you to turn it in sooner. 
+- **Deadline extensions should be no more than 24 hours.** Due date changes for more than 24 hours will need approval first, and they may be declined or modified. 
 - **The due date that you choose is a hard deadline**. If you submit work after the new date, it will not be accepted. Choose wisely the first time and abide by your decision. 
 - **Deadlines may not be extended twice on the same assignment**. Simply choose a reasonable deadline extension once, then abide by it. 
 - The **final deadline for Miniprojects (11:59pm ET April 16) may not be extended**. 
