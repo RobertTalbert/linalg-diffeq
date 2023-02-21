@@ -17,11 +17,12 @@ Class Prep submissions consist of answers to questions that are submitted via an
 |  **Success**  | Every item on the form that is not marked "Optional" has a complete and good-faith response; and the form is submitted prior to the deadline. |
 | **Incomplete** |   **Either** there is a question whose response is left blank (and is not marked "Optional"), **or** the form is submitted late.                                                                                                                                          |
 
+Important details on Class Prep: 
 
-Please note, **correct answers are not required on Class Prep, only a complete good faith effort to answer all the required items**. In fact, one of the reasons we do Class Prep is to surface any misconceptions or errors in thinking that you might be having at the beginning of a new topic, so we can work on those in class. So feel free to make as many honest mistakes as you want. 
-
-Also please note, **omitting even one required question from a Class Prep results in an Incomplete on the assignment**, even if the omission was by accident. Make sure to double-check your form entries before submitting to make sure you answered everything. 
-
+- **Correct answers are not required on Class Prep, only a complete good faith effort to answer all the required items**. In fact, one of the reasons we do Class Prep is to surface any misconceptions or errors in thinking that you might be having at the beginning of a new topic, so we can work on those in class. So feel free to make as many honest mistakes as you want. 
+- **Omission of a non-optional item from the responses results in an Incomplete**. This applies even if the omission was accidental. 
+- **Items that have a response consisting only of "I don't know", "I don't understand", etc. will be treated as blank responses.** That is, such responses will result in an *Incomplete* on the assignment. 
+You do not have to be correct in your responses, but you must *try* to be correct and respond to the assignment items with your best understanding, even if you have questions. If that is the case, there will be a separate item on the Class Prep for your questions. 
 
 ## Standards for Application/Analysis
 
