@@ -71,7 +71,7 @@ You will submit your work on Blackboard in the *Miniproject 3* folder under *Ass
 1. In the notebook, click "Share" in the upper right. 
 2. **Do not share with me by entering my email.** Instead, go to *General Access*, and in the pulldown menu select "Anyone with the link", then set the permissions to "Commenter". 
 3. Then click "Copy Link". 
-4. **On Blackboard**, go to the *Assignments* area, then *Miniprojects*. Select Miniproject 2. 
+4. **On Blackboard**, go to the *Assignments* area, then *Miniprojects*. Select Miniproject 3. 
 5. Under **Assignment Submission**, where it says *Text Submission*, click "Write Submission".  
 6. **Paste the link to your notebook in the text area that appears.** 
 7. Then click "Submit" to submit your work. 
