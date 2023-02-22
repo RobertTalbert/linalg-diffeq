@@ -31,3 +31,4 @@ Here are some initial value problems:
 
 - **(AA5)** Classify each as separable, exact, both (!), or neither and explain how you know. (If you think one of these is separable, the way you know is by actually separating the variables.)
 - Solve as many of these as you have time for. Plot your solution and compare it to a slope field solution. 
+- Bonus practice: Pick one of these and generate a numerical solution using Euler's method, with a reasonable step size. Plot the points (in a spreadsheet for example) and compare with your slope field and algebraic solutions. (They should all look more or less the same.) 
