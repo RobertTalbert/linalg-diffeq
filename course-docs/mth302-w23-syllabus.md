@@ -5,7 +5,7 @@
 > All models are wrong, but some are useful. 
 > 
 > -- George Box
-
+1
 ## About MTH 302 and this syllabus
 
 **Welcome to MTH 302!** I'm Dr. Robert Talbert, the professor of this course. I'm grateful you're here, and I think you're going to love what you learn this semester. 
