@@ -30,7 +30,7 @@ All course materials for MTH 302 are available on GitHub at https://github.com/R
 - **Class meetings:** Both sections meet in Eberhard Center (EC) 710. Section 03 meets TR 2:00-3:50; Section 04 meets TR 4:00-5:50. 
 - **Instructor:** Robert Talbert, Ph.D., Professor of Mathematics. 
 - **Office location:** MAK C-2-513 on the Allendale campus, but I will be using **EC 712C** for drop-in hours. 
-- **Drop-in hours:** 12:30-1:50 TR in EC 712C. Please feel free to drop in during these times with any question you have. *No appointment is necessary!* These are in-person; if you need an online meeting during those hours, please go to https://calendly.com/robert-talbert/mth-302-online-visit-during-drop-in-hours. 
+- **Drop-in hours:** 12:00-1:00pm Tuesdays and 12:30-1:50 Thursdays in EC 712C. Please feel free to drop in during these times with any question you have. *No appointment is necessary!* These are in-person; if you need an online meeting during those hours, please go to https://calendly.com/robert-talbert/mth-302-online-visit-during-drop-in-hours. 
 - **Appointments outside drop-in hours:** Available on a limited basis on Mondays and Wednesdays. Go to https://calendly.com/robert-talbert, choose a meeting type, then choose an open 20-minute time slot. 
 - **Contacting the prof:** Email (talbertr@gvsu.edu) is preferred. Be sure to read the *Instructor availability and message responses* policy later in this syllabus.  
 - **Course calendar:** The official course calendar is in Appendix B and on Blackboard. *In case of a date conflict on assignments or course documents, the Class Calendar is assumed to be correct.* 
