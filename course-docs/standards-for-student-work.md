@@ -16,7 +16,7 @@ Class Prep submissions consist of answers to questions that are submitted via an
 | :--------: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
 |  **Success**  | Every item on the form that is not marked "Optional" has a complete and good-faith response; and the form is submitted prior to the deadline. |
 | **Incomplete** |   **Either** there is a question whose response is left blank (and is not marked "Optional"), **or** the form is submitted late.                                                                                                                                          |
-**Update 2023-03-14:** Every Class Prep contains a Syllabus/Calendar Review question. Starting with the Class Prep for March 21, responses that have an incorrect answer for this Syllabus/Calendar Review question will be marked *Incomplete.* 
+
 
 
 Important details on Class Prep: 
@@ -25,6 +25,8 @@ Important details on Class Prep:
 - **Omission of a non-optional item from the responses results in an Incomplete**. This applies even if the omission was accidental. 
 - **Items that have a response consisting only of "I don't know", "I don't understand", etc. will be treated as blank responses.** That is, such responses will result in an *Incomplete* on the assignment. 
 You do not have to be correct in your responses, but you must *try* to be correct and respond to the assignment items with your best understanding, even if you have questions. If that is the case, there will be a separate item on the Class Prep for your questions. 
+
+**Update 2023-03-14:** Every Class Prep contains a Syllabus/Calendar Review question. Starting with the Class Prep for March 21, responses that have an incorrect answer for this Syllabus/Calendar Review question will be marked *Incomplete.* 
 
 ## Standards for Application/Analysis
 
