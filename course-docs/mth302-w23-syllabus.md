@@ -155,6 +155,8 @@ Each of these assignments is graded as follows:
 | Foundational Skills (via Skill Quizzes) | Overall correctness | *Success* or *Retry* | 
 | Miniprojects |  Completeness, overall correctness, writing, and presentation | *Success*, *Retry*, or *Incomplete* | 
 
+**Update 2023-03-14:** Every Class Prep contains a Syllabus/Calendar Review question. Starting with the Class Prep for March 21, responses that have an incorrect answer for this Syllabus/Calendar Review question will be marked *Incomplete.* 
+
 The document *Standards for Student Work* gives a complete description of the specific criteria used for grading these assignments.  
 
 Additionally, we will have a brief but comprehensive **final exam**, graded using points (out of 100) whose schedule is on the course calendar. 

@@ -16,6 +16,8 @@ Class Prep submissions consist of answers to questions that are submitted via an
 | :--------: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
 |  **Success**  | Every item on the form that is not marked "Optional" has a complete and good-faith response; and the form is submitted prior to the deadline. |
 | **Incomplete** |   **Either** there is a question whose response is left blank (and is not marked "Optional"), **or** the form is submitted late.                                                                                                                                          |
+**Update 2023-03-14:** Every Class Prep contains a Syllabus/Calendar Review question. Starting with the Class Prep for March 21, responses that have an incorrect answer for this Syllabus/Calendar Review question will be marked *Incomplete.* 
+
 
 Important details on Class Prep: 
 
