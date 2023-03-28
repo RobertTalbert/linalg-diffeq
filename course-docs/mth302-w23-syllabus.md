@@ -165,12 +165,14 @@ Additionally, we will have a brief but comprehensive **final exam**, graded usin
 
 Your course grade is assigned using the table below. Each row indicates the *minimum* number of "Successful" results needed to satisfy the requirement for that grade. (For example, earning a "B" requires nine (9) or more *Success* marks on Foundational Skill problems on skill quizzes.) To earn a grade, complete **all** the requirements listed in the row for that grade. The numbers in parentheses indicate the maximum number of the assignment that is planned; if any of those numbers changes during the semester, the grade table will be updated accordingly. 
 
-| Grade | Total of Class Preps and Practice (100) | Application/Analysis (11) | Foundational Skills (11) | Miniprojects (8) |
+| Grade | Total of Class Preps and Practice (100) | Application/Analysis (10) | Foundational Skills (11) | Miniprojects (8) |
 |:-----:|:---------------------------------------:|:-------------------------:|:------------------:|:------------:|
-|   A   |                   85                    |             9             |         10         |      5       |
-|   B   |                   75                    |             7             |         9          |      3       |
-|   C   |                   65                    |             5             |         8          |      1       |
+|   A   |                   85                    |             8             |         10         |      5       |
+|   B   |                   75                    |             6             |         9          |      3       |
+|   C   |                   65                    |             4             |         8          |      1       |
 |   D   |                   40                    |             2             |         4          |      0       |
+
+(*Note*: This table was updated on 2023-03-23 to reflect having 10 Application/Analysis sets rather than 11.) 
 
 A grade of "F" is assigned if not all of the requirements for a "D" are met. 
 
