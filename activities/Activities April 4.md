@@ -11,7 +11,7 @@ Assume that all of the inflows and outflows to and from these tanks occur at a r
 Answering this question requires a *system* of differential equations since each tank's salt content is changing, not only because of the water coming in and out but also because of the other tank's contents coming in and out. Let $x_A$ be the amount of salt (in grams) in tank A at time $t$ minutes, and let $x_B$ be the amount of salt in tank B at $t$ minutes. 
 
 1. Assume that the water flowing into tank A is contaminated with 4g of salt per liter. How much salt is coming into tank A each minute from the "Inflow to A" pipe? 
-2. How much salt (in grams) is leaving the drain from A (seen on the right side of the diagram above) each minute? How much salt is leaving tank A through the "A to B pipe"? 
+2. How much salt (in grams) is leaving the drain from A (seen on the left side of the diagram above) each minute? How much salt is leaving tank A through the "A to B pipe"? 
 3. How much salt *in total* is leaving tank A each minute? 
 4. How much salt (in grams) is coming in to tank A from tank B each minute? 
 5. Use the information from the first four questions to set up a differential equation for the rate of change in the amount salt in tank A per unit time. It should look like this, with the right-hand side filled in. Note: you should see both $x_A$ and $x_B$ on the right. 
