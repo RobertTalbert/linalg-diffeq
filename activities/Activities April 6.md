@@ -16,7 +16,7 @@ Parts of these activities will be assigned to Application/Analysis 10. Those par
 
 2. Mimic this process to find the general solution to each of the following second-order DEs. Each group will be responsible for one of these and putting the work on the board. But do more for practice. 
 
-   (a) $$y''+ y' - 2y = 0$$
+   (a) $y''+ y' - 2y = 0$
 
    (b) $y'' - y = 0$
 
